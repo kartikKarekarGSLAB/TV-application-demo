@@ -1,0 +1,98 @@
+.widget {
+    min-height: 28vh;
+    margin: 2vh 1vw;
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+
+    .appImg {
+        width: 9vw;
+        height: 20vh;
+        border-radius: 10px;
+        object-fit: cover;
+    }
+
+    .appImgWrapper {
+        position: relative;
+    }
+
+    .applicationName {
+        text-align: center;
+        width: 18vw;
+        overflow: hidden;
+        text-overflow: ellipsis !important;
+    }
+
+    .appPrivacyLock {
+        width: 2.5vw;
+        height: 4.5vh;
+        position: absolute;
+        bottom: 6px;
+        left: 3px;
+        z-index: 1;
+    }
+
+    .homeAppImgBorder {
+        border: 5px solid rgba(0, 0, 0, 0);
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0);
+        background: rgba(0, 0, 0, 0);
+    }
+
+    .appTitle {
+        font-size: 1.3rem;
+        font-family: 'CiscoSansBold', Arial, Helvetica, sans-serif;
+        padding: 2% 0 0 0;
+        text-align: center;
+        white-space: nowrap;
+        width: 19vw;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+.widget:hover .appTitle {
+    color: var(--selected-ui, #00c6ff);
+}
+.widget:hover .homeAppImgBorder {
+    border: 5px solid var(--selected-ui, #00c6ff);
+    box-shadow: 0px 0px 10px 0px var(--selected-ui, #00c6ff);
+    background: var(--selected-ui-background, #203240);
+}
+// Grid Realted Changes //
+.slick-list {
+    margin: 0 3.5vh;
+}
+
+// Arrow Realted Changes //
+.slick-prev {
+    left: 0% !important;
+    z-index: 1;
+    color: var(--ui-01, #ffffff);
+    font-size: 3.5rem !important;
+}
+.slick-prev:hover {
+    color: var(--ui-01, #ffffff);
+}
+.slick-next {
+    right: 0% !important;
+    z-index: 1;
+    color: var(--ui-01, #ffffff);
+    font-size: 3.5rem !important;
+}
+.slick-next:hover {
+    color: var(--ui-01, #ffffff);
+}
+
+// Dot's Realted Changes //
+.slick-dots {
+    bottom: -5px;
+}
+.slick-dots li button::before {
+    font-size: 8px;
+    color: var(--ui-01, #ffffff);
+    opacity: 0.3;
+}
+
+.slick-dots li.slick-active button::before {
+    color: var(--ui-01, #ffffff);
+    opacity: 1;
+}

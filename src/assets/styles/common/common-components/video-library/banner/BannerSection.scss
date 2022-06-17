@@ -1,0 +1,115 @@
+.banner-wrapper-cover {
+    width: 100vw !important;
+    // background: linear-gradient(90deg, rgba(11, 44, 72, 0.00353645) 15%, rgba(11, 44, 72, 0.577766) 40%, rgba(8, 84, 115, 0.972724) 52%, rgba(0, 211, 254, 0) 100%);
+    // z-index: 1;
+    // position: absolute;
+    // top: 0;
+    // left: 0;
+    // height: 52vh;
+}
+
+// Banner Section.
+.banner-wrapper {
+    display: flex !important;
+    align-items: stretch !important;
+    margin: 1vh 1vh 1vh 2vh !important;
+    padding-bottom: 1vh;
+    width: 100vw !important;
+}
+
+// Banner Asset Details Section.
+.banner-asset-details-wrapper {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    width: 100vw !important;
+}
+
+// Banner Asset Details :: Title.
+.banner-asset-details-title {
+    margin-bottom: 1vh !important;
+    text-overflow: ellipsis !important;
+    overflow-y: hidden;
+    // Note :: the below 2 line added to adjust the vertical ellipses styling for the 'Title' text. 
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    width: 35vw !important;
+    max-width: 35vw !important;
+    min-width: 35vw !important;
+}
+
+
+// Banner Asset Details :: Rating, Age Category, Duration Wrapper.
+.banner-asset-details-rating-age-duration-wrapper {
+    width: 35vw !important;
+    max-width: 35vw !important;
+    min-width: 35vw !important;
+    display: flex;
+    align-items: center;
+}
+
+// Banner Asset Details :: Ratings.
+.banner-asset-details-ratings {
+    width: 8vw !important;
+    max-width: 8vw !important;
+    min-width: 8vw !important;
+    font-size: 1.3rem;
+}
+
+// Banner Asset Details :: Age Category.
+.banner-asset-details-age-category {
+    border: 1px solid var(--ui-03, #ffffff) !important;
+    background: var(--disabled-01, #aaa) !important;
+    border-radius: 3px;
+    color: var(--field-01-text, #0b2c48) !important;
+    padding: 3px;
+    display: inline !important;
+    text-align: center;
+}
+
+//Banner Asset Details :: Duration.
+.banner-asset-details-duration {
+    display: inline !important;
+    margin-left: 1vw !important;
+    width: 10vw !important;
+    max-width: 10vw !important;
+    min-width: 10vw !important;
+}
+// Banner Asset Details :: Progress Bar.
+.banner-asset-details-progress-bar-wrapper {
+    margin: 1vh 0vh !important;
+    width: 35vw !important;
+    max-width: 35vw !important;
+    min-width: 35vw !important;
+}
+// This is added for the rating star color.
+// Banner Asset Details :: Ratings.
+.banner-asset-details-progress-bar {
+    background-color: var(--ui-03, #ffffff) !important;
+    border-radius: 10px !important;
+    height: 1vh !important;
+}
+
+// Banner Asset Details :: Description.
+.banner-asset-details-description {
+    text-overflow: ellipsis !important;
+    overflow-y: hidden;
+    // Note :: the below 6 line added to adjust the vertical ellipses styling for the 'Description' text. 
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    width: 40vw !important;
+    max-width: 40vw !important;
+    min-width: 40vw !important;
+}
+
+.MuiRating-icon {
+    color: var(--selected-ui, #00c6ff) !important;
+}
+
+// Banner Asset Preview Section.
+.banner-asset-preview-image {
+    height: 42vh;
+    width: 42vw;
+}

@@ -1,0 +1,100 @@
+/*
+Styling for the Ribbon Element.
+*/
+.ribbon-asset {
+    border-width: 0px;
+    width: 22.5vw;
+    height: 21vh;
+    border-color: --val(--ui-03, #ffffff);
+    color: --val(--ui-03, #ffffff) !important;
+    background-color: none;
+    border-style: solid;
+    box-sizing: border-box;
+    border-radius: 7px;
+    object-fit: contain;
+    margin-right: 10px;
+    transition: transform 450ms;
+    background: var(--selected-ui-background, #203240) !important;
+}
+
+.ribbon-asset-focused {
+    color: var(--ui-03, #ffffff) !important;
+    border: 4px solid var(--selected-ui, #00c6ff);
+    background: var(--selected-ui-background, #203240) !important;
+    box-shadow: 0px 0px 10px 0px var(--selected-ui, #00c6ff) !important;
+}
+
+.ribbon-asset-title {
+    color: var(--ui-03, #ffffff) !important;
+    background: rgba(0, 0, 0, 0.7) !important;
+    height: 7vh !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.ribbon-asset-details-progress-bar-wrapper {
+    margin: 1vh 0vh !important;
+    width: 14vw !important;
+    max-width: 14vw !important;
+    min-width: 14vw !important;
+}
+
+.ribbon-asset-details-progress-bar {
+    background-color: var(--ui-03, #ffffff) !important;
+    border-radius: 10px !important;
+    height: .5vh !important;
+}
+
+// 
+.ribbon-asset-thumbnail {
+    width: 19.5vw;
+    height: 15vh;
+    text-align: center;   
+}
+// This will be shown only when there is focus on the Asset field.
+.ribbon-asset-thumbnail-focused {
+    width: 19.5vw;
+    height: 15vh;
+    text-align: center;   
+}
+
+// This will be shown only when there is focus on the Asset field.
+.ribbon-asset-description {
+    width: 17vw;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis !important;
+    margin: 0;
+    // TODO:: This needed to updated to respective typography variant.
+    font-size: 1.2rem!important;
+}
+
+.age-category-asset-label  {
+    border: 1px solid var(--ui-03, #ffffff) !important;
+    padding: 2px;
+    background: var(--disabled-01, #aaa) !important;
+    border-radius: 3px;
+    color: var(--field-01-text, #0b2c48) !important;
+    margin-right: 1vw !important;
+}
+
+.duration--ribbon-asset-label {
+    color: var(--ui-03, #ffffff) !important;
+    background: var(--selected-ui-background, #203240) !important;   
+}
+
+.asset-badge-success-top-right {
+    min-width: 2.5vw !important;
+    height: 4vh !important;
+    background-color: var(--success-dark, #388e3c) !important;
+    color: var(--ui-03, #ffffff) !important;
+    top: 0vh !important;
+    right: 0vh !important;
+    position: absolute !important;
+    text-align: center !important;
+    padding: 1vh !important;
+    border-radius: 0px 0px 13px 13px !important;
+    z-index: 9999 !important;
+}

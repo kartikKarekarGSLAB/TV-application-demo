@@ -1,0 +1,22 @@
+// Reference to the Custom Application Font.
+@import './common/Font.scss';
+// Reference to the Color.
+@import './common/default-theme/ThemeVariables.scss';
+
+@import './mediaQueryBoundries.scss';
+
+body {
+    margin: 0;
+    color: var(--ui-01, #ffffff);
+    font-family: 'CiscoSans', Arial, Helvetica, sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.main-container {
+    min-height: 64vh;
+}

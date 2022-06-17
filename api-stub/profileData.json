@@ -1,0 +1,90 @@
+ {
+        "messageSequence": 20210512161031,
+        "endpoint": "03-01",
+        "primaryDoctorFirstName": "G",
+        "primaryDoctorLastName": "Larson",
+        "primaryDoctorDisplayName": "BRETT M.",
+        "primaryNurseFirstName": "Sally",
+        "primaryNurseLastname": "S",
+        "primaryNurseDisplayName": "Sally S.",
+        "primaryNurseImageUrl": "https://pcstaci04.ec.stagrp.com/i/site/nurse1.png",
+        "emrRefId": "phil",
+        "patientId": "phil",
+        "patientType": "NOT_SPECIFIED",
+        "patientHasPreferences": {
+          "language": "en_US",
+          "closedCaption": "CC1",
+          "showNotifications": true,
+          "showClosedCaption": false,
+          "showFooter": true,
+          "fontSize": "medium",
+          "phoneRinger": false,
+          "videoCall": true,
+          "nameDisplayFormat": "FIRST_NAME_ONLY",
+          "privacyDataUnLockDuration": "0",
+          "privacyDataLock": false,
+          "logLevel": "WARN"
+        },
+        "phonePreferences": {
+          "patientPatientPk": 0,
+          "autoAnswerAsAudio": false,
+          "autoAnswerAsVideo": false,
+          "videoCallAutoAnswerExpiryTime": 10,
+          "lastUpdatedTime": 1633686238000
+        },
+        "patientName": {
+          "firstName": "Gardner",
+          "lastName": "Phil"
+        },
+        "userByUser": {
+          "firstName": "Gardner",
+          "lastName": "Phil"
+        },
+        "preferredAlias": {
+          "nameType": "NOT_SPECIFIED",
+          "lastName": "Phil",
+          "firstName": "Gardner",
+          "middleName": "MIDDL",
+          "nameSuffix": "",
+          "titlePrefix": "",
+          "degree": "",
+          "displayName": "Gardner",
+          "representation": "",
+          "primaryLegalName": true,
+          "aliasId": 38
+        },
+        "diagnosisList": [
+          {
+            "code": "276.1",
+            "name": "Hyposmolality and/or hyponatremia",
+            "method": "ICD-9-CM"
+          }
+        ],
+        "patientLocation": {
+          "room": "03",
+          "bed": "01",
+          "facility": "facility1",
+          "floor": "floor1",
+          "building": "building1",
+          "roomDescription": "03",
+          "bedDescription": "01",
+          "facilityDescription": "facility1",
+          "floorDescription": "floor1",
+          "buildingDescription": "building1",
+          "department": {
+            "departmentName": "dept1",
+            "departmentId": "dept1"
+          },
+          "displayName": "03"
+        },
+        "admittedTime": 1441736692000,
+        "nurseId": "nurse1",
+        "doctorId": "doctor1",
+        "emrDoctorId": "doctor1",
+        "primaryDoctorImageUrl": "https://pcstaci04.ec.stagrp.com/i/site/doctor1.png",
+        "age": "71",
+        "gender": "male",
+        "ageCategory": "NC-17",
+        "tvRating": "TV-MA",
+        "externalUserId": "Gardner.Phil"
+      }

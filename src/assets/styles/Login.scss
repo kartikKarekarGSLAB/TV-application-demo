@@ -1,0 +1,51 @@
+.login-input-field {
+    height: 8vh;
+    width: 18vw;
+    font-size: 1.5rem;
+}
+
+.login-field-spacing {
+    padding-left: 1.5vw;
+    padding-top: 3.3vh;
+}
+
+.login-input-label {
+    padding-top: 3.3vh;
+    text-align: right;
+    margin: auto 0 !important;
+}
+
+.login-form-err {
+    margin-top: 3.5vh !important;
+    color: var(--support-01, #da1e28);
+    text-align: center !important;
+}
+
+.login-input-element-help {
+    margin-top: 4.5vh !important;
+}
+
+.login-button {
+    height: 7vh;
+    padding: 9px 16px 6px 16px !important;
+}
+
+.cancel-button {
+    height: 7vh;
+    padding: 9px 16px 6px 16px !important;
+}
+
+.login-logo {
+    width: 100%;
+    object-fit: cover;
+    min-height: 12vh;
+    max-height: 14vh;
+}
+
+.login-password-show-hide-icon {
+    color: var(--ui-01, #ffffff) !important;
+    margin-left: 1vw !important;
+    transform: scale(1.5) !important;
+    position: absolute;
+    left: -4vw !important;
+}

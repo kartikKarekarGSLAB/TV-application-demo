@@ -1,0 +1,437 @@
+// High Definition (HD) screen.
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+    // GridView scss classes
+    .widget {
+        margin: 2vh 1vw 1vh 1vw !important;
+        .appImg {
+            width: 11vw !important;
+        }
+    }
+    .slick-dots {
+        bottom: -3vh !important;
+    }
+    // show hide icon.
+    .login-password-show-hide-icon {
+        color: var(--ui-01, #ffffff) !important;
+        margin-left: 1vw !important;
+        transform: scale(1) !important;
+        position: absolute;
+        left: -5vw !important;
+    }
+    // Video Library : Banner preview section
+    .banner-asset-preview-image {
+        height: 38vh !important;
+    }
+    // Video Library ratings starts
+    .banner-asset-details-ratings {
+        width: 8vw !important;
+        max-width: 8vw !important;
+        min-width: 8vw !important;
+        font-size: 1rem!important;
+    }
+    // Banner Asset Details :: Description.
+    .banner-asset-details-description {
+        text-overflow: ellipsis !important;
+        overflow-y: hidden;
+        // Note :: the below 4 line added to adjust the vertical ellipses styling for the 'Description' text. 
+        display: -webkit-box;
+        -webkit-line-clamp: 4 !important;
+        -webkit-box-orient: vertical;
+        width: 35vw !important;
+        max-width: 35vw !important;
+        min-width: 35vw !important;
+    }
+}
+@media screen and (min-width: 1281px) and (max-width: 1599px) {
+}
+
+// Full HD
+@media screen and (min-width: 1600px) and (max-width: 1990px) {
+    // Header Styling
+    .header {
+        .header-weather-location-panel {
+            font-size: 2rem !important;
+        }
+    }
+    // Page Title
+    .page-heading {
+        .header-text {
+            font-size: 2rem !important;
+        }
+    }
+    // GridView scss classes
+    .appImg {
+        width: 11vw !important;
+    }
+    .appTitle {
+        font-size: 1.8rem !important;
+    }
+    // Footer Styling
+    .footer {
+        .patient-room-details,
+        .phone-details-number,
+        .staff-details-name,
+        .device-serial-number {
+            font-size: 1.2rem !important;
+        }
+    }
+    // custom input field
+    .input-field {
+        border-radius: 13px !important;
+        box-shadow: 0px 7px 3px 0px #074172 !important;
+    }
+    // Login Page
+    .login-input-field {
+        font-size: 2rem !important;
+    }
+    // show hide icon.
+    .login-password-show-hide-icon {
+        color: var(--ui-01, #ffffff) !important;
+        margin-left: 1vw !important;
+        transform: scale(1.5) !important;
+        position: absolute;
+        left: -4vw !important;
+    }
+    // Video Library : Banner preview section
+    .banner-asset-preview-image {
+        height: 38vh !important;
+    }
+    // Video Library ratings starts
+    .banner-asset-details-ratings {
+        width: 8vw !important;
+        max-width: 8vw !important;
+        min-width: 8vw !important;
+        font-size: 1.8rem!important;
+    }
+    // Video Library Banner Asset Details :: Age Category.
+    .banner-asset-details-age-category {
+        border: 1px solid var(--ui-03, #ffffff) !important;
+        background: var(--disabled-01, #aaa) !important;
+        border-radius: 3px;
+        color: var(--field-01-text, #0b2c48) !important;
+        padding: 3px;
+        display: inline !important;
+        text-align: center;
+        height: 3vh;
+        font-size: 1.5rem!important;
+        width: 4vw;
+    }
+    // Banner Asset Details :: Description.
+    .banner-asset-details-description {
+        text-overflow: ellipsis !important;
+        overflow-y: hidden;
+        // Note :: the below 4 line added to adjust the vertical ellipses styling for the 'Description' text. 
+        display: -webkit-box;
+        -webkit-line-clamp: 4 !important;
+        -webkit-box-orient: vertical;
+        width: 35vw !important;
+        max-width: 35vw !important;
+        min-width: 35vw !important;
+    }    
+    // Video Library Banner Ribbon Asset.
+    .ribbon-asset {
+        border-width: 0px;
+        width: 19.5vw !important;
+        height: 24vh !important;
+        border-color: --val(--ui-03, #ffffff);
+        color: --val(--ui-03, #ffffff) !important;
+        background-color: none;
+        border-style: solid;
+        box-sizing: border-box;
+        border-radius: 7px;
+        object-fit: contain;
+        margin-right: 10px;
+        transition: transform 450ms;
+        background: var(--selected-ui-background, #203240) !important;
+    }
+    .ribbon-asset-focused {
+        color: var(--ui-03, #ffffff) !important;
+        border: 5px solid var(--selected-ui, #00c6ff) !important;
+        background: var(--selected-ui-background, #203240) !important;
+        box-shadow: 0px 0px 10px 0px var(--selected-ui, #00c6ff) !important;
+    }    
+}
+//2K
+@media screen and (min-width: 1991px) and (max-width: 2570px) {
+    .main-container {
+        min-height: 66vh !important;
+    }
+    // Header Styling
+    .header {
+        .header-weather-location-panel {
+            font-size: 3rem !important;
+        }
+        .header-weather-location-panel .header-information .header-weather .icon {
+            min-width: 4vw !important;
+            max-width: 5vw !important;
+        }
+        .logo {
+            min-height: 18vh;
+            max-height: 18vh;
+        }
+    }
+    // Page Title
+    .page-heading {
+        .header-text {
+            font-size: 3rem !important;
+        }
+    }
+
+    // GridView scss classes
+    .widget {
+        margin: 4vh 1vw 1vh 1vw !important;
+        .appImg {
+            width: 10vw !important;
+            height: 19vh !important;
+        }
+        .appTitle {
+            font-size: 2.3rem !important;
+            width: 16vw !important;
+        }
+    }
+    // Footer Styling
+    .footer {
+        .patient-room-details,
+        .phone-details-number,
+        .staff-details-name,
+        .device-serial-number {
+            font-size: 1.8rem !important;
+        }
+    }
+    // custom input field
+    .input-field {
+        border-radius: 14px !important;
+        box-shadow: 0px 9px 4px 0px #074172 !important;
+    }
+    // Login Page
+    .login-input-field {
+        font-size: 3rem !important;
+    }
+    // show hide icon.
+    .login-password-show-hide-icon {
+        color: var(--ui-01, #ffffff) !important;
+        margin-left: 1vw !important;
+        transform: scale(2.5) !important;
+        position: absolute;
+        left: -3vw !important;
+    }
+    // Video Library : Banner preview section
+    .banner-asset-preview-image {
+        height: 38vh !important;
+    }
+    // Video Library ratings starts
+    .banner-asset-details-ratings {
+        width: 8vw !important;
+        max-width: 8vw !important;
+        min-width: 8vw !important;
+        font-size: 2rem!important;
+    }
+    // Video Library Banner Asset Details :: Age Category.
+    .banner-asset-details-age-category {
+        border: 1px solid var(--ui-03, #ffffff) !important;
+        background: var(--disabled-01, #aaa) !important;
+        border-radius: 3px;
+        color: var(--field-01-text, #0b2c48) !important;
+        padding: 3px;
+        display: inline !important;
+        text-align: center;
+        height: 3vh;
+        font-size: 2rem!important;
+        width: 4vw;
+    }
+    // Banner Asset Details :: Description.
+    .banner-asset-details-description {
+        text-overflow: ellipsis !important;
+        overflow-y: hidden;
+        // Note :: the below 4 line added to adjust the vertical ellipses styling for the 'Description' text. 
+        display: -webkit-box;
+        -webkit-line-clamp: 4 !important;
+        -webkit-box-orient: vertical;
+        width: 35vw !important;
+        max-width: 35vw !important;
+        min-width: 35vw !important;
+    }    
+    // Video Library Banner Ribbon Asset.
+    .ribbon-asset {
+        border-width: 0px;
+        width: 20vw !important;
+        height: 22vh !important;
+        border-color: --val(--ui-03, #ffffff);
+        color: --val(--ui-03, #ffffff) !important;
+        background-color: none;
+        border-style: solid;
+        box-sizing: border-box;
+        border-radius: 7px;
+        object-fit: contain;
+        margin-right: 10px;
+        transition: transform 450ms;
+        background: var(--selected-ui-background, #203240) !important;
+    }
+    .ribbon-asset-focused {
+        color: var(--ui-03, #ffffff) !important;
+        border: 10px solid var(--selected-ui, #00c6ff);
+        background: var(--selected-ui-background, #203240) !important;
+        box-shadow: 0px 0px 10px 0px var(--selected-ui, #00c6ff) !important;
+    }
+    .asset-badge-success-top-right {
+        font-size: 2rem!important;
+    }
+}
+//4K
+@media screen and (min-width: 2571px) and (max-width: 3900px) {
+    .main-container {
+        min-height: 66vh !important;
+    }
+    // Header Styling
+    .header {
+        .header-weather-location-panel {
+            font-size: 4rem !important;
+        }
+        .header-weather-location-panel .header-information .header-weather .icon {
+            min-width: 5vw !important;
+            max-width: 6vw !important;
+        }
+        .logo {
+            min-height: 18vh;
+            max-height: 18vh;
+        }
+    }
+    // Page Title
+    .page-heading {
+        .header-text {
+            font-size: 4rem !important;
+        }
+    }
+    // GridView scss classes
+    .widget {
+        margin: 3vh 1vw 1vh 1vw !important;
+        min-height: 30vh !important;
+        .appImg {
+            width: 11vw !important;
+            height: 20vh !important;
+        }
+        .appTitle {
+            font-size: 3.3rem !important;
+            width: 16vw !important;
+        }
+    }
+    // Footer Styling
+    .footer {
+        .patient-room-details,
+        .phone-details-number,
+        .staff-details-name {
+            font-size: 3rem !important;
+        }
+        .device-serial-number {
+            margin-right: 2vw !important;
+            font-size: 3rem !important;
+        }
+    }
+    .input-field {
+        border-radius: 22px !important;
+        box-shadow: 0px 13px 6px 0px #074172 !important;
+    }
+    // Login Page
+    .login-input-field {
+        font-size: 4.5rem !important;
+    }
+    // show hide icon.
+    .login-password-show-hide-icon {
+        color: var(--ui-01, #ffffff) !important;
+        margin-left: 1vw !important;
+        transform: scale(3.5) !important;
+        position: absolute;
+        left: -3vw !important;
+    }
+
+    // Virtual Keyboard : Class to be added as default for buttons.
+    .hg-theme-default .hg-button{
+        height: 4.5vh !important;
+        font-size: 3rem !important;
+    }
+
+    .virtual-keyboard-modal-input { 
+        font-size: 3rem !important;
+    }
+    // Virtual Keyboard : to be added for numeric characters.
+    .numeric-keyboard-keys-button {
+        margin-left: 1vw !important;
+    }
+
+    // Virtual Keyboard : Class to be added for operations characters.
+    .operations-keyboard-keys-button {
+        margin-left: 1vw !important;
+    }
+
+    // Virtual Keyboard : Class to be added for space characters.
+    .space-keyboard-key-button {
+        margin-top: 1vh !important;
+    }
+
+    // Virtual Keyboard : class to be added for ok button.
+    .ok-keyboard-key-button {
+        margin-top: 1.5vh !important;
+    }
+    // Video Library : Banner preview section
+    .banner-asset-preview-image {
+        height: 40vh !important;
+    }
+    // Video Library ratings starts
+    .banner-asset-details-ratings {
+        width: 8vw !important;
+        max-width: 8vw !important;
+        min-width: 8vw !important;
+        font-size: 3.5rem!important;
+    }
+    // Video Library Banner Asset Details :: Age Category.
+    .banner-asset-details-age-category {
+        border: 1px solid var(--ui-03, #ffffff) !important;
+        background: var(--disabled-01, #aaa) !important;
+        border-radius: 3px;
+        color: var(--field-01-text, #0b2c48) !important;
+        padding: 3px;
+        display: inline !important;
+        text-align: center;
+        height: 3vh;
+        font-size: 2.5rem!important;
+        width: 4vw;
+    }
+    // Banner Asset Details :: Description.
+    .banner-asset-details-description {
+        text-overflow: ellipsis !important;
+        overflow-y: hidden;
+        // Note :: the below 4 line added to adjust the vertical ellipses styling for the 'Description' text. 
+        display: -webkit-box;
+        -webkit-line-clamp: 4 !important;
+        -webkit-box-orient: vertical;
+        width: 35vw !important;
+        max-width: 35vw !important;
+        min-width: 35vw !important;
+    }    
+    // Video Library Banner Ribbon Asset.
+    .ribbon-asset {
+        border-width: 0px;
+        width: 20vw !important;
+        height: 23.5vh !important;
+        border-color: --val(--ui-03, #ffffff);
+        color: --val(--ui-03, #ffffff) !important;
+        background-color: none;
+        border-style: solid;
+        box-sizing: border-box;
+        border-radius: 7px;
+        object-fit: contain;
+        margin-right: 10px;
+        transition: transform 450ms;
+        background: var(--selected-ui-background, #203240) !important;
+    }
+    .ribbon-asset-focused {
+        color: var(--ui-03, #ffffff) !important;
+        border: 10px solid var(--selected-ui, #00c6ff) !important;
+        background: var(--selected-ui-background, #203240) !important;
+        box-shadow: 0px 0px 10px 0px var(--selected-ui, #00c6ff) !important;
+    }
+    .asset-badge-success-top-right {
+        font-size: 3.5rem!important;
+    }
+
+}

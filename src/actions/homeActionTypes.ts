@@ -1,0 +1,4 @@
+// Action Types for video Application List.
+export const GET_VIDEO_APP_LIST_REQUEST = 'GET_VIDEO_APP_LIST_REQUEST';
+export const GET_VIDEO_APP_LIST_SUCCESS = 'GET_VIDEO_APP_LIST_SUCCESS';
+export const GET_VIDEO_APP_LIST_FAILURE = 'GET_VIDEO_APP_LIST_FAILURE';

@@ -1,0 +1,19 @@
+.drawer-menu-root {
+    --drawer-outer-open-width: 100vw;
+    --drawer-outer-close-width: 4vw;
+}
+
+.vertical-menu-drawer-item-wrapper {
+    width: 15vw !important;
+}
+// Vertical Menu Drawer Item : Hover state.
+.vertical-menu-drawer-item-focused {
+    // Padding short hand (4values): top right bottom left. 
+    background: var(--selected-ui-background, #203240) !important;
+    box-shadow: 0px 0px 5px 0px var(--selected-ui, #00c6ff) !important;
+}
+
+.vertical-menu-drawer-item-selected {
+    // Padding short hand (4values): top right bottom left. 
+    border-bottom: 3px solid var(--selected-ui, #00c6ff) !important;
+}

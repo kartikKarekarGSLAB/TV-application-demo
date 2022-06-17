@@ -1,0 +1,82 @@
+{
+    "home": [
+        {
+          "availableInLanguages": [
+            {
+              "staged": false,
+              "title": "Tension Type Headache",
+              "httpUri": "https://pcstaci04.ec.stagrp.com/vd2/site/krames/V1009.mp4",
+              "description": "Tension headaches are usually dull, aching, or throbbing headaches often associated with sensations of fullness, tightness, or pressure. The pain involves both sides of the head and neck. In this video, you'll find out more about symptoms, possible causes, and recommended treatments.",
+              "contentVideoPk": "41",
+              "videoId": "krames__V1009",
+              "thumbnailUri": "https://pcstaci04.ec.stagrp.com/tn2/site/krames/V1009.jpg",
+              "duration": "4:25",
+              "uniqueProviderId": "V1009",
+              "defaultTitle": "Tension Type Headache",
+              "language": "English",
+              "commonKey": "krames__Tension Type Headache",
+              "topLevelCategory": "EDUCATION",
+              "external": false,
+              "providerId": "krames",
+              "contentVideoProgressVO": {
+                "viewedPercentage": 0,
+                "viewCount": 0
+              },
+              "minAge": 0,
+              "maxAge": 0,
+              "availableWithoutAuth": false,
+              "hideInGuestMode": false
+            },
+            {
+              "staged": false,
+              "title": "DOLOR DE CABEZA POR TENSIÓN",
+              "httpUri": "https://pcstaci04.ec.stagrp.com/vd2/site/krames/W1861.mp4",
+              "description": "Tension headaches are usually dull, aching, or throbbing headaches often associated with sensations of fullness, tightness, or pressure. The pain involves both sides of the head and neck. In this video, you'll find out more about symptoms, possible causes, and recommended treatments.",
+              "contentVideoPk": "323",
+              "videoId": "krames__W1861",
+              "thumbnailUri": "https://pcstaci04.ec.stagrp.com/tn2/site/krames/W1861.jpg",
+              "duration": "5:28",
+              "uniqueProviderId": "W1861",
+              "defaultTitle": "Tension Type Headache",
+              "language": "Spanish",
+              "commonKey": "krames__Tension Type Headache",
+              "topLevelCategory": "EDUCATION",
+              "external": false,
+              "providerId": "krames",
+              "contentVideoProgressVO": {
+                "viewedPercentage": 0,
+                "viewCount": 0
+              },
+              "minAge": 0,
+              "maxAge": 0,
+              "availableWithoutAuth": false,
+              "hideInGuestMode": false
+            }
+          ],
+          "staged": false,
+          "title": "Tension Type Headache",
+          "httpUri": "https://pcstaci04.ec.stagrp.com/vd2/site/krames/V1009.mp4",
+          "description": "Tension headaches are usually dull, aching, or throbbing headaches often associated with sensations of fullness, tightness, or pressure. The pain involves both sides of the head and neck. In this video, you'll find out more about symptoms, possible causes, and recommended treatments.",
+          "contentVideoPk": "41",
+          "videoId": "krames__V1009",
+          "thumbnailUri": "https://pcstaci04.ec.stagrp.com/tn2/site/krames/V1009.jpg",
+          "duration": "4:25",
+          "uniqueProviderId": "V1009",
+          "defaultTitle": "Tension Type Headache",
+          "language": "English",
+          "commonKey": "krames__Tension Type Headache",
+          "topLevelCategory": "EDUCATION",
+          "external": false,
+          "providerId": "krames",
+          "contentVideoProgressVO": {
+            "viewedPercentage": 0,
+            "viewCount": 0
+          },
+          "minAge": 0,
+          "maxAge": 0,
+          "screenName": "HOME",
+          "availableWithoutAuth": true,
+          "hideInGuestMode": false
+        }
+      ]
+}

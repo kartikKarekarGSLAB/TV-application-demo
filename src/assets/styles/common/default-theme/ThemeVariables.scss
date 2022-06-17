@@ -1,0 +1,26 @@
+// Confluence link
+// https://dkgsta.atlassian.net/wiki/spaces/PC/pages/2955640849/Themes+Support+for+TV+application
+// for how we can declear variable name, role and there value.
+:root {
+    --ui-background-url: url('../../../images/common/background.jpg');
+    --ui-background: #203240;
+
+    --ui-01: #ffffff;
+    --ui-03: #ffffff;
+
+    --selected-ui: #00c6ff;
+    --selected-ui-background: #203240;
+
+    --field-01: #0b2c48;
+    --field-01-ui: #6fb5d1;
+    --field-01-text: #0b2c48;
+    --disabled-01: #aaa;
+
+    --interactive-01: #00a0f0;
+
+    //Error
+    --support-01: #da1e28;
+
+    //Success.
+    --success-dark: #388e3c;
+}

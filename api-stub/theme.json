@@ -1,0 +1,12 @@
+{
+    "themeName":"FlatDark",
+    "locale":"en_US",
+    "properties":{
+        "ui-background": "#203240",
+        "ui-01": "#ffffff",
+        "ui-03": "#ffffff", 
+        "selected-ui": "#00c6ff",
+        "selected-ui-background": "#203240"
+    },
+    "url":null
+}

@@ -1,0 +1,436 @@
+{
+    "keyValues": [
+      {
+        "key": "patientapp.extapp.letterpress.android.locationTypes",
+        "value": "PATIENT_ROOM,GUEST_ROOM"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.android.appUrl",
+        "value": "com.mobilityware.solitaire"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.ios.screenName",
+        "value": "ENTERTAINMENT"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.ios.show",
+        "value": "true"
+      },
+      {
+        "key": "patientapp.extapp.netflix.ios.webUrl",
+        "value": "itms-apps://itunes.apple.com/app/id363590051"
+      },
+      {
+        "key": "patientapp.extapp.netflix.android.appUrl",
+        "value": "com.netflix.mediaclient"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.ios.webUrl",
+        "value": "itms-apps://itunes.apple.com/app/id526619424"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.ios.show",
+        "value": "true"
+      },
+      {
+        "key": "patientapp.extapp.youtube.android.appUrl",
+        "value": "com.google.android.youtube.tv"
+      },
+      {
+        "key": "patientapp.extapp.wordwithfriends.android.appIconTag",
+        "value": "tvapp.app.games.wordwithfriends"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.ios.name",
+        "value": "FollowMyHealth"
+      },
+      {
+        "key": "patientapp.extapp.hulu.ios.appUrl",
+        "value": "hulu://"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.android.appIconTag",
+        "value": "tvapp.app.games.solitaire"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.android.locationTypes",
+        "value": "PATIENT_ROOM,GUEST_ROOM"
+      },
+      {
+        "key": "patientapp.extapp.youtube.ios.screenName",
+        "value": "ENTERTAINMENT"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.ios.show",
+        "value": "true"
+      },
+      {
+        "key": "patientapp.extapp.youtube.android.appIconTag",
+        "value": "tvapp.app.entertainment.youtube"
+      },
+      {
+        "key": "patientapp.extapp.primevideos.android.appUrl",
+        "value": "com.netflix.mediaclient"
+      },
+      {
+        "key": "patientapp.extapp.hulu.ios.sequence",
+        "value": "110"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.android.locationTypes",
+        "value": "PATIENT_ROOM,GUEST_ROOM"
+      },
+      {
+        "key": "patientapp.extapp.primevideos.ios.webUrl",
+        "value": "https://app.primevideo.com"
+      },
+      {
+        "key": "patientapp.extapp.netflix.android.webUrl",
+        "value": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.ios.name",
+        "value": "Solitaire"
+      },
+      {
+        "key": "patientapp.extapp.netflix.android.screenName",
+        "value": "ENTERTAINMENT"
+      },
+      {
+        "key": "patientapp.extapp.netflix.android.sequence",
+        "value": "130"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.android.appIconTag",
+        "value": "tvapp.app.games.letterpress"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.android.appUrl",
+        "value": "com.jardogs.fmhmobile"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.android.appIconTag",
+        "value": "tvapp.app.entertainment.followmyhealth"
+      },
+      {
+        "key": "patientapp.extapp.netflix.ios.appUrl",
+        "value": "nflx://"
+      },
+      {
+        "key": "patientapp.extapp.youtube.android.webUrl",
+        "value": "https://play.google.com/store/apps/details?id=com.google.android.youtube.tv"
+      },
+      {
+        "key": "patientapp.extapp.youtube.ios.webUrl",
+        "value": "itms-apps://itunes.apple.com/app/id544007664"
+      },
+      {
+        "key": "patientapp.extapp.wordwithfriends.ios.appUrl",
+        "value": "https://wordswithfriends.zyngawithfriends.com"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.android.appUrl",
+        "value": "com.solebon.letterpress"
+      },
+      {
+        "key": "patientapp.extapp.wordwithfriends.android.show",
+        "value": "true"
+      },
+      {
+        "key": "patientapp.extapp.hulu.ios.webUrl",
+        "value": "itms-apps://itunes.apple.com/app/id376510438"
+      },
+      {
+        "key": "patientapp.extapp.wordwithfriends.android.webUrl",
+        "value": "https://play.google.com/store/apps/details?id=com.zynga.wwf2.free"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.android.webUrl",
+        "value": " https://play.google.com/store/apps/details?id=com.jardogs.fmhmobile"
+      },
+      {
+        "key": "patientapp.extapp.primevideos.ios.appUrl",
+        "value": "https://app.primevideo.com"
+      },
+      {
+        "key": "patientapp.extapp.wordwithfriends.android.name",
+        "value": "Word with friends"
+      },
+      {
+        "key": "patientapp.extapp.wordwithfriends.android.appUrl",
+        "value": "com.zynga.wwf2.free"
+      },
+      {
+        "key": "patientapp.extapp.hulu.android.sequence",
+        "value": "110"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.android.sequence",
+        "value": "100"
+      },
+      {
+        "key": "patientapp.extapp.netflix.android.name",
+        "value": "Netflix"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.android.webUrl",
+        "value": "https://play.google.com/store/apps/details?id=com.mobilityware.solitaire"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.ios.sequence",
+        "value": "100"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.android.show",
+        "value": "true"
+      },
+      {
+        "key": "patientapp.extapp.youtubetv.ios.appUrl",
+        "value": "youtubetv://"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.android.sequence",
+        "value": "150"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.ios.screenName",
+        "value": "GAMES"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.ios.appUrl",
+        "value": "mwsolitaire://"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.ios.name",
+        "value": "Letterpress"
+      },
+      {
+        "key": "patientapp.extapp.netflix.android.show",
+        "value": "true"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.ios.appIconTag",
+        "value": "tvapp.app.games.solitaire"
+      },
+      {
+        "key": "patientapp.extapp.wordwithfriends.android.locationTypes",
+        "value": "PATIENT_ROOM,GUEST_ROOM"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.ios.sequence",
+        "value": "120"
+      },
+      {
+        "key": "patientapp.extapp.primevideos.android.locationTypes",
+        "value": "PATIENT_ROOM,GUEST_ROOM"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.ios.sequence",
+        "value": "150"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.ios.webUrl",
+        "value": "https://apps.apple.com/us/app/followmyhealth-mobile/id502147249"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.android.name",
+        "value": "Letterpress"
+      },
+      {
+        "key": "patientapp.extapp.youtube.ios.sequence",
+        "value": "170"
+      },
+      {
+        "key": "patientapp.extapp.netflix.ios.locationTypes",
+        "value": "PATIENT_ROOM,GUEST_ROOM"
+      },
+      {
+        "key": "patientapp.extapp.wordwithfriends.android.screenName",
+        "value": "GAMES"
+      },
+      {
+        "key": "patientapp.extapp.wordwithfriends.ios.sequence",
+        "value": "160"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.android.screenName",
+        "value": "GAMES"
+      },
+      {
+        "key": "patientapp.extapp.wordwithfriends.android.sequence",
+        "value": "160"
+      },
+      {
+        "key": "patientapp.extapp.wordwithfriends.ios.webUrl",
+        "value": "https://wordswithfriends.zyngawithfriends.com"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.android.name",
+        "value": "Solitaire"
+      },
+      {
+        "key": "patientapp.extapp.youtube.android.sequence",
+        "value": "170"
+      },
+      {
+        "key": "patientapp.extapp.youtube.ios.appIconTag",
+        "value": "tvapp.app.entertainment.youtube"
+      },
+      {
+        "key": "patientapp.extapp.netflix.ios.name",
+        "value": "Netflix"
+      },
+      {
+        "key": "patientapp.extapp.youtube.android.screenName",
+        "value": "ENTERTAINMENT"
+      },
+      {
+        "key": "patientapp.extapp.netflix.ios.show",
+        "value": "true"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.android.screenName",
+        "value": "GAMES"
+      },
+      {
+        "key": "patientapp.extapp.primevideos.android.name",
+        "value": "Netflix"
+      },
+      {
+        "key": "patientapp.extapp.primevideos.android.sequence",
+        "value": "140"
+      },
+      {
+        "key": "patientapp.extapp.netflix.android.appIconTag",
+        "value": "tvapp.app.entertainment.netflix"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.android.screenName",
+        "value": "HOME"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.ios.appUrl",
+        "value": "fmh://"
+      },
+      {
+        "key": "patientapp.extapp.primevideos.android.show",
+        "value": "true"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.ios.appIconTag",
+        "value": "tvapp.app.entertainment.followmyhealth"
+      },
+      {
+        "key": "patientapp.extapp.primevideos.ios.sequence",
+        "value": "140"
+      },
+      {
+        "key": "patientapp.extapp.youtube.ios.name",
+        "value": "Youtube"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.android.name",
+        "value": "FollowMyHealth"
+      },
+      {
+        "key": "patientapp.extapp.youtube.android.locationTypes",
+        "value": "PATIENT_ROOM,GUEST_ROOM"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.ios.screenName",
+        "value": "GAMES"
+      },
+      {
+        "key": "patientapp.extapp.youtubetv.ios.webUrl",
+        "value": "itms-apps://itunes.apple.com/app/id1193350206"
+      },
+      {
+        "key": "patientapp.extapp.primevideos.android.appIconTag",
+        "value": "tvapp.app.entertainment.netflix"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.ios.locationTypes",
+        "value": "PATIENT_ROOM,GUEST_ROOM"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.ios.appIconTag",
+        "value": "tvapp.app.games.letterpress"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.ios.locationTypes",
+        "value": "PATIENT_ROOM,GUEST_ROOM"
+      },
+      {
+        "key": "patientapp.extapp.primevideos.android.screenName",
+        "value": "ENTERTAINMENT"
+      },
+      {
+        "key": "patientapp.extapp.youtube.ios.show",
+        "value": "true"
+      },
+      {
+        "key": "patientapp.extapp.followmyhealth.android.show",
+        "value": "true"
+      },
+      {
+        "key": "patientapp.extapp.youtube.ios.locationTypes",
+        "value": "PATIENT_ROOM,GUEST_ROOM"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.ios.webUrl",
+        "value": "itms-apps://itunes.apple.com/app/id359917414"
+      },
+      {
+        "key": "patientapp.extapp.youtube.ios.appUrl",
+        "value": "youtube://"
+      },
+      {
+        "key": "patientapp.extapp.netflix.ios.appIconTag",
+        "value": "tvapp.app.entertainment.netflix"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.android.sequence",
+        "value": "120"
+      },
+      {
+        "key": "patientapp.extapp.netflix.android.locationTypes",
+        "value": "PATIENT_ROOM,GUEST_ROOM"
+      },
+      {
+        "key": "patientapp.extapp.netflix.ios.screenName",
+        "value": "ENTERTAINMENT"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.android.webUrl",
+        "value": "https://play.google.com/store/apps/details?id=com.solebon.letterpress"
+      },
+      {
+        "key": "patientapp.extapp.youtube.android.show",
+        "value": "true"
+      },
+      {
+        "key": "patientapp.extapp.solitaire.ios.locationTypes",
+        "value": "PATIENT_ROOM,GUEST_ROOM"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.ios.appUrl",
+        "value": "com.atebits.Letterpress://"
+      },
+      {
+        "key": "patientapp.extapp.netflix.ios.sequence",
+        "value": "130"
+      },
+      {
+        "key": "patientapp.extapp.primevideos.android.webUrl",
+        "value": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient"
+      },
+      {
+        "key": "patientapp.extapp.letterpress.android.show",
+        "value": "true"
+      },
+      {
+        "key": "patientapp.extapp.youtube.android.name",
+        "value": "Youtube"
+      }
+    ]
+  }

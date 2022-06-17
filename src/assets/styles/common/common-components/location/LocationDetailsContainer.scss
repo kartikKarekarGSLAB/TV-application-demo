@@ -1,0 +1,12 @@
+.patient-room-image {
+    display: inline-flex;
+    max-width: 8vw;
+    min-width: 5vw;
+    max-height: 10vh;
+    min-height: 8vh;
+}
+.patient-room-details {
+    text-align: left;
+    width: 100%;
+    border-bottom: 1px solid var(--ui-03, #ffffff);
+}

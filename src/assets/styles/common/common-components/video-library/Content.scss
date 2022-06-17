@@ -1,0 +1,21 @@
+.video-library-content-wrapper {
+    display: flex !important;
+    flex-direction: column !important;
+    flex: 1;
+    overflow: hidden;
+    margin-left: 5vw !important;
+}
+
+.video-library-breadcrumb-search-wrapper {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start;
+    margin: 2vh 0vh 2vh 2vh !important;
+}
+
+.search-input-field {
+    height: 6vh;
+    width: 70vw;
+    font-size: 1.5rem;
+    margin: 2vh 0vh 0vh 0vh;
+}

@@ -1,0 +1,14 @@
+// Styling for Footer.
+.footer {
+    width: 100% !important;
+    border-top: 1px solid var(--ui-03, #ffffff);
+
+    .footer-middle-information {
+        text-align: left;
+    }
+
+    .footer-copyright-icon {
+        width: 7vw;
+        height: 5vh;
+    }
+}

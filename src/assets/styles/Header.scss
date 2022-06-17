@@ -1,0 +1,54 @@
+.header {
+    min-height: 15vh;
+    max-height: 18vh;
+    overflow: hidden;
+
+    .logo {
+        min-width: 100% !important;
+        max-width: 100% !important;
+        min-height: 12vh;
+        max-height: 14vh;
+    }
+
+    // Header Location Information Styling.
+    .header-weather-location-panel {
+        width: 100% !important;
+        font-size: 1.5rem;
+    }
+    .header-weather-location-panel .header-location,
+    .header-weather-location-panel .header-information {
+        text-align: center;
+        width: 100%;
+    }
+
+    // Header Weather Information Styling.
+    .header-weather-location-panel .header-information .header-date-time {
+        margin-right: 1vw;
+        display: inline !important;
+    }
+    .header-weather-location-panel .header-information .header-weather {
+        border-left: 1px solid;
+        border-left-color: var(--ui-03, #ffffff);
+        padding-left: 1vw;
+        display: inline !important;
+    }
+    .header-weather-location-panel .header-information .header-weather .weather-temp {
+        display: inline !important;
+    }
+    .header-weather-location-panel .header-information .header-weather .icon {
+        max-width: 5vw;
+        vertical-align: middle;
+    }
+
+    // Header Status Information Styling.
+    .header-statusbar-container-icon {
+        max-width: 5vw !important;
+        min-width: 5vw !important;
+        height: auto;
+    }
+}
+
+.header-login-button {
+    margin-bottom: 2vh !important;
+    margin-left: 1vw !important;
+}

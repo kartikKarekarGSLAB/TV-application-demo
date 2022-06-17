@@ -1,0 +1,1580 @@
+[
+  {
+    "title": "Settings-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Settings-Selected.png",
+    "description": "N/A",
+    "fileName": "Settings-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.settings.selected"
+    ]
+  },
+  {
+    "title": "AvatorIcon",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Avatar_Icon.png",
+    "description": "N/A",
+    "fileName": "Avatar_Icon.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "ndb.app.avator.icon"
+    ]
+  },
+  {
+    "title": "TrackingIcon",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/icon_tracking.png",
+    "description": "N/A",
+    "fileName": "icon_tracking.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "ndb.app.tracking"
+    ]
+  },
+  {
+    "title": "Entrees",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Entrees_Icon_Left.png",
+    "description": "N/A",
+    "fileName": "Entrees_Icon_Left.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "Breakfast",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/breakfast.png",
+    "description": "N/A",
+    "fileName": "breakfast.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "DefaultCustomerLogo-NDB",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/FranciscoLogo.png",
+    "description": "N/A",
+    "fileName": "FranciscoLogo.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "ndb.header.customer.logo",
+      "tvapp.header.customer.logo"
+    ]
+  },
+  {
+    "title": "Wallpaper Launcher",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/wallpaper_launcher.jpg",
+    "description": "N/A",
+    "fileName": "wallpaper_launcher.jpg",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "patientapp.custom.wallpaper.launcher"
+    ]
+  },
+  {
+    "title": "CareTeamVisits-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/CareTeamVisits-Selected.png",
+    "description": "N/A",
+    "fileName": "CareTeamVisits-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.careteamvisits.selected"
+    ]
+  },
+  {
+    "title": "Desert",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Desert.jpg",
+    "description": "N/A",
+    "fileName": "Desert.jpg",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "PainScore_10",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/painValue_10.png",
+    "description": "N/A",
+    "fileName": "painValue_10.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "Request-Details",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/requests_app.png",
+    "description": "N/A",
+    "fileName": "requests_app.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "Prime Videos",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/primevideos.png",
+    "description": "N/A",
+    "fileName": "primevideos.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.entertainment.primevideos"
+    ]
+  },
+  {
+    "title": "Education-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Education-Selected.png",
+    "description": "N/A",
+    "fileName": "Education-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.videolibrary.selected"
+    ]
+  },
+  {
+    "title": "Tulips",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Tulips.jpg",
+    "description": "N/A",
+    "fileName": "Tulips.jpg",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "Beverages",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Beverages_Icon_Left.png",
+    "description": "N/A",
+    "fileName": "Beverages_Icon_Left.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "FollowMyHealth",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/FollowMyHealth.png",
+    "description": "N/A",
+    "fileName": "FollowMyHealth.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.entertainment.followmyhealth"
+    ]
+  },
+  {
+    "title": "Desserts",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Desserts_Icon_left.png",
+    "description": "N/A",
+    "fileName": "Desserts_Icon_left.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "GoalOfTheDay-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/GoalOfTheDay-Selected.png",
+    "description": "N/A",
+    "fileName": "GoalOfTheDay-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.goal.selected"
+    ]
+  },
+  {
+    "title": "TVGuide2",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/Hydrangeas.jpg",
+    "description": "N/A",
+    "fileName": "Hydrangeas.jpg",
+    "nxPath": "FlatDarkDefault/en_US"
+  },
+  {
+    "title": "SupplierLogo",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/sta_black_large.png",
+    "description": "N/A",
+    "fileName": "sta_black_large.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "admin.supplier.logo",
+      "ndb.header.supplier.logo"
+    ]
+  },
+  {
+    "title": "TVGuide1",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/Penguins.jpg",
+    "description": "N/A",
+    "fileName": "Penguins.jpg",
+    "nxPath": "FlatDarkDefault/en_US"
+  },
+  {
+    "title": "Wallpaper Roadside Ocean",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/wallpaper_roadside_ocean.jpg",
+    "description": "N/A",
+    "fileName": "wallpaper_roadside_ocean.jpg",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "patientapp.custom.wallpaper.roadside.ocean"
+    ]
+  },
+  {
+    "title": "Relaxation",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Relaxation.png",
+    "description": "N/A",
+    "fileName": "Relaxation.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.relaxation"
+    ]
+  },
+  {
+    "title": "Hulu",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/hulu.png",
+    "description": "N/A",
+    "fileName": "hulu.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.entertainment.hulu"
+    ]
+  },
+  {
+    "title": "CoBrowse-InProgress",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/cb-inprogress.png",
+    "description": "N/A",
+    "fileName": "cb-inprogress.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "patientapp.cobrowse.status.inprogress"
+    ]
+  },
+  {
+    "title": "Words with Friends",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/wordwithfriends.png",
+    "description": "N/A",
+    "fileName": "wordwithfriends.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.games.wordwithfriends"
+    ]
+  },
+  {
+    "title": "Preferences-ClosedCaption",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/cc.png",
+    "description": "N/A",
+    "fileName": "cc.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.preferences.cc"
+    ]
+  },
+  {
+    "title": "NDBPresence-OutOfRoom",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Presence-Unavailable.png",
+    "description": "N/A",
+    "fileName": "Presence-Unavailable.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "ndb.app.presence.outofroom"
+    ]
+  },
+  {
+    "title": "MobileFooterLogo",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Header.png",
+    "description": "N/A",
+    "fileName": "Header.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "pmemobile.footer.supplier.logo"
+    ]
+  },
+  {
+    "title": "FooterLogo",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/ExtendedCare-PX-Logo-Gray.png",
+    "description": "N/A",
+    "fileName": "ExtendedCare-PX-Logo-Gray.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.footer.supplier.logo"
+    ]
+  },
+  {
+    "title": "MoviesOnDemand",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/MOD.png",
+    "description": "N/A",
+    "fileName": "MOD.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.moviesondemand",
+      "tvapp.app.entertainment"
+    ]
+  },
+  {
+    "title": "Schedule",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/schedule180x180.png",
+    "description": "N/A",
+    "fileName": "schedule180x180.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.schedule",
+      "ndb.app.schedule"
+    ]
+  },
+  {
+    "title": "BringMeIcePack",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/ice_pack.png",
+    "description": "N/A",
+    "fileName": "ice_pack.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "FoodMenu",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/foodmenu_app.png",
+    "description": "N/A",
+    "fileName": "foodmenu_app.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.foodmenu"
+    ]
+  },
+  {
+    "title": "SpeedDial1",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Doctor1.jpg",
+    "description": "N/A",
+    "fileName": "Doctor1.jpg",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "SpeedDial2",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/download.jpg",
+    "description": "N/A",
+    "fileName": "download.jpg",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "OperatorMessage-Warning",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/alert180x180.png",
+    "description": "N/A",
+    "fileName": "alert180x180.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.operatormessage.warning"
+    ]
+  },
+  {
+    "title": "SpeedDial3",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Chrysanthemum.jpg",
+    "description": "N/A",
+    "fileName": "Chrysanthemum.jpg",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "OperatorMessage-Emergency",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/emergency-message-icon.png",
+    "description": "N/A",
+    "fileName": "emergency-message-icon.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.operatormessage.emergency"
+    ]
+  },
+  {
+    "title": "PatientPresence-Available",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/PatientAvailable.png",
+    "description": "N/A",
+    "fileName": "PatientAvailable.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.presence.available"
+    ]
+  },
+  {
+    "title": "Phone",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/phone_app.png",
+    "description": "N/A",
+    "fileName": "phone_app.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.phone"
+    ]
+  },
+  {
+    "title": "Security",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/icon_security.png",
+    "description": "N/A",
+    "fileName": "icon_security.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "ndb.app.security"
+    ]
+  },
+  {
+    "title": "MyVisit-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/MyVisit-Selected.png",
+    "description": "N/A",
+    "fileName": "MyVisit-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.myvisit.selected"
+    ]
+  },
+  {
+    "title": "CleanMyRoom",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/clean_my_room.png",
+    "description": "N/A",
+    "fileName": "clean_my_room.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "Progress-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Progress-Selected.png",
+    "description": "N/A",
+    "fileName": "Progress-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.progress.selected"
+    ]
+  },
+  {
+    "title": "PainScoreApp",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/PainScore.png",
+    "description": "N/A",
+    "fileName": "PainScore.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.painscore"
+    ]
+  },
+  {
+    "title": "Preferences-PhoneRinger",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/phone.png",
+    "description": "N/A",
+    "fileName": "phone.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.preferences.phoneringer"
+    ]
+  },
+  {
+    "title": "Settings",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/preference-app.png",
+    "description": "N/A",
+    "fileName": "preference-app.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.settings"
+    ]
+  },
+  {
+    "title": "CoBrowse-TimedOut",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/cb-timeout.png",
+    "description": "N/A",
+    "fileName": "cb-timeout.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "patientapp.cobrowse.status.timedout"
+    ]
+  },
+  {
+    "title": "NDBDND",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/DND.png",
+    "description": "N/A",
+    "fileName": "DND.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "ndb.app.donotdisturb"
+    ]
+  },
+  {
+    "title": "Medications",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/prescription-app.png",
+    "description": "N/A",
+    "fileName": "prescription-app.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.medications"
+    ]
+  },
+  {
+    "title": "PreferencesApp-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Preferences-Selected.png",
+    "description": "N/A",
+    "fileName": "Preferences-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.patientprofile.selected"
+    ]
+  },
+  {
+    "title": "Header-VideoCamera-Off",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/VideoCamera-Off.png",
+    "description": "N/A",
+    "fileName": "VideoCamera-Off.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.camera.disabled"
+    ]
+  },
+  {
+    "title": "Wallpaper Solor",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/wallpaper_solor.jpg",
+    "description": "N/A",
+    "fileName": "wallpaper_solor.jpg",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "patientapp.custom.wallpaper.solor"
+    ]
+  },
+  {
+    "title": "Medications-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Medications-Selected.png",
+    "description": "N/A",
+    "fileName": "Medications-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.medications.selected"
+    ]
+  },
+  {
+    "title": "Survey-Option-Agree-5",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/Survey-Option-Agree-5.png",
+    "description": "N/A",
+    "fileName": "Survey-Option-Agree-5.png",
+    "nxPath": "FlatDarkDefault/en_US"
+  },
+  {
+    "title": "Wallpaper Earth",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/wallpaper_earth.jpg",
+    "description": "N/A",
+    "fileName": "wallpaper_earth.jpg",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "patientapp.custom.wallpaper.earth"
+    ]
+  },
+  {
+    "title": "Requests-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Requests-Selected.png",
+    "description": "N/A",
+    "fileName": "Requests-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.requests.selected"
+    ]
+  },
+  {
+    "title": "MoviesOnDemand-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/MOD-Selected.png",
+    "description": "N/A",
+    "fileName": "MOD-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.moviesondemand.selected"
+    ]
+  },
+  {
+    "title": "BedComfortLevel",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/bed_comfort_level.png",
+    "description": "N/A",
+    "fileName": "bed_comfort_level.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "Notifications-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Notifications-Selected.png",
+    "description": "N/A",
+    "fileName": "Notifications-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.notifications.selected"
+    ]
+  },
+  {
+    "title": "PatientPresence-Screensharing",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Presence-Screensharing.png",
+    "description": "N/A",
+    "fileName": "Presence-Screensharing.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.presence.screenshare"
+    ]
+  },
+  {
+    "title": "NDBPresence-ScreenShare",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Presence-ScreenSharingInProgress.png",
+    "description": "N/A",
+    "fileName": "Presence-ScreenSharingInProgress.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "ndb.app.presence.screenshare"
+    ]
+  },
+  {
+    "title": "GoalOfTheDay-Details",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/goalOfDay-new.png",
+    "description": "N/A",
+    "fileName": "goalOfDay-new.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.goal.details"
+    ]
+  },
+  {
+    "title": "HowToUseVideo-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/HowToUseVideo-Selected.png",
+    "description": "N/A",
+    "fileName": "HowToUseVideo-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.howtousevideo.selected"
+    ]
+  },
+  {
+    "title": "SeeChaplain",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/chaplain180x180.png",
+    "description": "N/A",
+    "fileName": "chaplain180x180.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "PatientPresence-WatchingTV",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/WatchingTV.png",
+    "description": "N/A",
+    "fileName": "WatchingTV.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.presence.watchingtv"
+    ]
+  },
+  {
+    "title": "PreferencesApp",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Preferences.png",
+    "description": "N/A",
+    "fileName": "Preferences.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.patientprofile"
+    ]
+  },
+  {
+    "title": "OperatorMessage-Information",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/information-message-icon.png",
+    "description": "N/A",
+    "fileName": "information-message-icon.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.operatormessage.information"
+    ]
+  },
+  {
+    "title": "MessagesQuestions",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/questions-180.png",
+    "description": "N/A",
+    "fileName": "questions-180.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.messages.questions"
+    ]
+  },
+  {
+    "title": "Request",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/requests.png",
+    "description": "N/A",
+    "fileName": "requests.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.requests",
+      "ndb.app.request",
+      "tvapp.app.requests.details",
+      "tvapp.app.requests.selected"
+    ]
+  },
+  {
+    "title": "MyVideosSuggested",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/suggested-videos-180.png",
+    "description": "N/A",
+    "fileName": "suggested-videos-180.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.myvideos.suggested"
+    ]
+  },
+  {
+    "title": "DischargeCheckList",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/discharge-checklist180x180.png",
+    "description": "N/A",
+    "fileName": "discharge-checklist180x180.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "TVGuide",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/TV_new.PNG",
+    "description": "N/A",
+    "fileName": "TV_new.PNG",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.tvguide"
+    ]
+  },
+  {
+    "title": "RoomTooHot",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/room_hot.png",
+    "description": "N/A",
+    "fileName": "room_hot.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "PhoneCallHistory",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/CallHistory-leftNav.png",
+    "description": "N/A",
+    "fileName": "CallHistory-leftNav.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.phone.callhistory"
+    ]
+  },
+  {
+    "title": "WebBrowser",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Light - WebBrowser.png",
+    "description": "N/A",
+    "fileName": "Light - WebBrowser.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.webbrowser"
+    ]
+  },
+  {
+    "title": "Letterpress",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/letterpress.png",
+    "description": "N/A",
+    "fileName": "letterpress.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.games.letterpress"
+    ]
+  },
+  {
+    "title": "Youtube",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/youtube.png",
+    "description": "N/A",
+    "fileName": "youtube.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.entertainment.youtube"
+    ]
+  },
+  {
+    "title": "HowToUseVideo",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/HowToUseVideo.png",
+    "description": "N/A",
+    "fileName": "HowToUseVideo.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.howtousevideo"
+    ]
+  },
+  {
+    "title": "MessagesInbox",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/inbox180x180.png",
+    "description": "N/A",
+    "fileName": "inbox180x180.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.messages.inbox"
+    ]
+  },
+  {
+    "title": "MyCareTeam-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/CareTeamView-Selected.png",
+    "description": "N/A",
+    "fileName": "CareTeamView-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.mycareteam.selected"
+    ]
+  },
+  {
+    "title": "Feedback-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Feedback-Selected.png",
+    "description": "N/A",
+    "fileName": "Feedback-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.feedback.selected"
+    ]
+  },
+  {
+    "title": "Messages",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/messages_app.png",
+    "description": "N/A",
+    "fileName": "messages_app.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.messages",
+      "ndb.app.messages",
+      "tvapp.app.messages.details"
+    ]
+  },
+  {
+    "title": "FriendsNFamily",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/video-chat2.png",
+    "description": "N/A",
+    "fileName": "video-chat2.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.friendsnfamily"
+    ]
+  },
+  {
+    "title": "Wallpaper Moon",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/wallpaper_moon.jpg",
+    "description": "N/A",
+    "fileName": "wallpaper_moon.jpg",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "patientapp.custom.wallpaper.moon"
+    ]
+  },
+  {
+    "title": "Header-VideoCamera-On",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Video-On.png",
+    "description": "N/A",
+    "fileName": "Video-On.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.camera.enabled"
+    ]
+  },
+  {
+    "title": "Preferences-FontSize",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/font.png",
+    "description": "N/A",
+    "fileName": "font.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.preferences.fontsize"
+    ]
+  },
+  {
+    "title": "PatientPresence-StaffInRoom",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/StaffInRoom.png",
+    "description": "N/A",
+    "fileName": "StaffInRoom.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.presence.staffinroom"
+    ]
+  },
+  {
+    "title": "VideoLibrary-NDB",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/videoLibrary-app.png",
+    "description": "N/A",
+    "fileName": "videoLibrary-app.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "ndb.app.myvideos"
+    ]
+  },
+  {
+    "title": "TVGuide-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/TV-Selected.png",
+    "description": "N/A",
+    "fileName": "TV-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.tvguide.selected"
+    ]
+  },
+  {
+    "title": "PatientPresence-OutOfRoom",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Presence-OutOfRoom.png",
+    "description": "N/A",
+    "fileName": "Presence-OutOfRoom.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.presence.outofroom"
+    ]
+  },
+  {
+    "title": "VideoLibrary",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/video-library.png",
+    "description": "N/A",
+    "fileName": "video-library.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.videolibrary",
+      "ndb.app.videolibrary"
+    ]
+  },
+  {
+    "title": "FAQ-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/FAQ-Selected.png",
+    "description": "N/A",
+    "fileName": "FAQ-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.faq.selected"
+    ]
+  },
+  {
+    "title": "FAQ",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/2.png",
+    "description": "N/A",
+    "fileName": "2.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.faq"
+    ]
+  },
+  {
+    "title": "Discharge",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/discharge-survey180x180.png",
+    "description": "N/A",
+    "fileName": "discharge-survey180x180.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "MyCareTeam",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/CareTeamView.png",
+    "description": "N/A",
+    "fileName": "CareTeamView.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.mycareteam"
+    ]
+  },
+  {
+    "title": "Welcome",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Welcome.png",
+    "description": "N/A",
+    "fileName": "Welcome.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "PatientPresence-DoNotDistrub",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/DND.png",
+    "description": "N/A",
+    "fileName": "DND.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.presence.donotdisturb"
+    ]
+  },
+  {
+    "title": "Games",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/games.png",
+    "description": "N/A",
+    "fileName": "games.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.games"
+    ]
+  },
+  {
+    "title": "Satisfaction",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/satisfaction-survey180x180.png",
+    "description": "N/A",
+    "fileName": "satisfaction-survey180x180.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "GoalOfTheDay",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/daily-goal.png",
+    "description": "N/A",
+    "fileName": "daily-goal.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.goal",
+      "ndb.app.goal"
+    ]
+  },
+  {
+    "title": "PainScoreApp-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/PainScore-Selected.png",
+    "description": "N/A",
+    "fileName": "PainScore-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.painscore.selected"
+    ]
+  },
+  {
+    "title": "Header-PrivacyUnlock",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/PrivacyUnlock.png",
+    "description": "N/A",
+    "fileName": "PrivacyUnlock.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.privacy.unlock"
+    ]
+  },
+  {
+    "title": "MyVideosRequired",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/required-videos-180.png",
+    "description": "N/A",
+    "fileName": "required-videos-180.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.myvideos.required"
+    ]
+  },
+  {
+    "title": "Preferences-VideoCamera",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/video.png",
+    "description": "N/A",
+    "fileName": "video.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.preferences.videocamera"
+    ]
+  },
+  {
+    "title": "LoginSpirite",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/ec_mark.png",
+    "description": "N/A",
+    "fileName": "ec_mark.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "admin.app.icon"
+    ]
+  },
+  {
+    "title": "Feedback",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/feedback_app.png",
+    "description": "N/A",
+    "fileName": "feedback_app.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.feedback",
+      "ndb.app.feedback"
+    ]
+  },
+  {
+    "title": "Safety",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/safety-survey180x180.png",
+    "description": "N/A",
+    "fileName": "safety-survey180x180.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "CareTeamVisits",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/My_Visitors_app.png",
+    "description": "N/A",
+    "fileName": "My_Visitors_app.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.careteamvisits"
+    ]
+  },
+  {
+    "title": "Lunch",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/lunch.png",
+    "description": "N/A",
+    "fileName": "lunch.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "Preferences-PresenceStatus",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/avaliable.png",
+    "description": "N/A",
+    "fileName": "avaliable.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.preferences.available"
+    ]
+  },
+  {
+    "title": "Insurance",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/insurance-survey180x180.png",
+    "description": "N/A",
+    "fileName": "insurance-survey180x180.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "Notifications",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Notifications.png",
+    "description": "N/A",
+    "fileName": "Notifications.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.notifications"
+    ]
+  },
+  {
+    "title": "Preferences-Notifications",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/notification.png",
+    "description": "N/A",
+    "fileName": "notification.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.preferences.notifications"
+    ]
+  },
+  {
+    "title": "YoutuveTV",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/youtubetv.png",
+    "description": "N/A",
+    "fileName": "youtubetv.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.entertainment.youtubetv"
+    ]
+  },
+  {
+    "title": "NDBPresence-WatchingTV",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Presence-WatchingTV.png",
+    "description": "N/A",
+    "fileName": "Presence-WatchingTV.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "ndb.app.presence.watchingtv"
+    ]
+  },
+  {
+    "title": "Progress",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/progress_app.png",
+    "description": "N/A",
+    "fileName": "progress_app.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.progress",
+      "ndb.app.progress"
+    ]
+  },
+  {
+    "title": "Wallpaper Sunset",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/wallpaper_sunset.jpg",
+    "description": "N/A",
+    "fileName": "wallpaper_sunset.jpg",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "patientapp.custom.wallpaper.sunset"
+    ]
+  },
+  {
+    "title": "Home",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/home-app.png",
+    "description": "N/A",
+    "fileName": "home-app.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.home"
+    ]
+  },
+  {
+    "title": "Wallpaper Gaming",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/wallpaper_gaming.png",
+    "description": "N/A",
+    "fileName": "wallpaper_gaming.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "patientapp.custom.wallpaper.gaming"
+    ]
+  },
+  {
+    "title": "Wallpaper Desert",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/wallpaper_desert.jpg",
+    "description": "N/A",
+    "fileName": "wallpaper_desert.jpg",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "patientapp.custom.wallpaper.desert"
+    ]
+  },
+  {
+    "title": "RoomTooCold",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/room_cold.png",
+    "description": "N/A",
+    "fileName": "room_cold.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "PainScore_0",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/painValue_0.png",
+    "description": "N/A",
+    "fileName": "painValue_0.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "CoBrowse-Disconnected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/cb-force-disconnect.png",
+    "description": "N/A",
+    "fileName": "cb-force-disconnect.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "patientapp.cobrowse.status.disconnected"
+    ]
+  },
+  {
+    "title": "Pending Icon",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/pending_icon.png",
+    "description": "N/A",
+    "fileName": "pending_icon.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "patientapp.common.pending"
+    ]
+  },
+  {
+    "title": "Schedule-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Schedule-Selected.png",
+    "description": "N/A",
+    "fileName": "Schedule-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.schedule.selected"
+    ]
+  },
+  {
+    "title": "Survey-Option-Disagree-1",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/Survey-Option-Disagree-1.png",
+    "description": "N/A",
+    "fileName": "Survey-Option-Disagree-1.png",
+    "nxPath": "FlatDarkDefault/en_US"
+  },
+  {
+    "title": "Goals Charts",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/goals_charts.png",
+    "description": "N/A",
+    "fileName": "goals_charts.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "patientapp.goals.charts"
+    ]
+  },
+  {
+    "title": "Preferences-PrivacyStatus",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/privacy.png",
+    "description": "N/A",
+    "fileName": "privacy.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.preferences.privacystatus"
+    ]
+  },
+  {
+    "title": "Preferences-Language",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/lang.png",
+    "description": "N/A",
+    "fileName": "lang.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.preferences.language"
+    ]
+  },
+  {
+    "title": "WebBrowser-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Light - WebBrowser-Selected.png",
+    "description": "N/A",
+    "fileName": "Light - WebBrowser-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.webbrowser.selected"
+    ]
+  },
+  {
+    "title": "Preferences-Footer",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/footer.png",
+    "description": "N/A",
+    "fileName": "footer.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.preferences.showfooter"
+    ]
+  },
+  {
+    "title": "Survey-Default",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/survey180x180.png",
+    "description": "N/A",
+    "fileName": "survey180x180.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "Cleanliness",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/cleanliness-survey180x180.png",
+    "description": "N/A",
+    "fileName": "cleanliness-survey180x180.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "Hearing&Headset",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/hearing_and_headset.png",
+    "description": "N/A",
+    "fileName": "hearing_and_headset.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "Wellness",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/wellness-survey180x180.png",
+    "description": "N/A",
+    "fileName": "wellness-survey180x180.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "FoodMenu-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/FoodMenu-Selected.png",
+    "description": "N/A",
+    "fileName": "FoodMenu-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.foodmenu.selected"
+    ]
+  },
+  {
+    "title": "Header-PrivacyLock",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/PrivacyLock.png",
+    "description": "N/A",
+    "fileName": "PrivacyLock.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.privacy.lock"
+    ]
+  },
+  {
+    "title": "PhoneDialpad",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/DialPad-leftNav.png",
+    "description": "N/A",
+    "fileName": "DialPad-leftNav.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.phone.dialpad"
+    ]
+  },
+  {
+    "title": "NDBPresence-StaffInRoom",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Presence-StaffInRoom.png",
+    "description": "N/A",
+    "fileName": "Presence-StaffInRoom.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "ndb.app.presence.staffinroom"
+    ]
+  },
+  {
+    "title": "MyLearning",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/my-learning.png",
+    "description": "N/A",
+    "fileName": "my-learning.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.myvideos"
+    ]
+  },
+  {
+    "title": "Dinner",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/dinner.png",
+    "description": "N/A",
+    "fileName": "dinner.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "CoBrowse",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/cb.png",
+    "description": "N/A",
+    "fileName": "cb.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "patientapp.app.cobrowse"
+    ]
+  },
+  {
+    "title": "Relaxation-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Relaxation-Selected.png",
+    "description": "N/A",
+    "fileName": "Relaxation-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.relaxation.selected"
+    ]
+  },
+  {
+    "title": "DefaultStaffImage",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/default_staff_image.png",
+    "description": "N/A",
+    "fileName": "default_staff_image.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.defaultstaff"
+    ]
+  },
+  {
+    "title": "Messages-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Messages-Selected.png",
+    "description": "N/A",
+    "fileName": "Messages-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.messages.selected"
+    ]
+  },
+  {
+    "title": "After Hours",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/afterhours.png",
+    "description": "N/A",
+    "fileName": "afterhours.png",
+    "nxPath": "FlatDarkDefault/en_US"
+  },
+  {
+    "title": "Solitaire",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/solitaire.png",
+    "description": "N/A",
+    "fileName": "solitaire.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.games.solitaire"
+    ]
+  },
+  {
+    "title": "Wallpaper Radial",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/wallpaper_radial.jpg",
+    "description": "N/A",
+    "fileName": "wallpaper_radial.jpg",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "patientapp.custom.wallpaper.radial"
+    ]
+  },
+  {
+    "title": "NDBPresence-Available",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Presence-Available.png",
+    "description": "N/A",
+    "fileName": "Presence-Available.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "ndb.app.presence.available"
+    ]
+  },
+  {
+    "title": "GeneratePin",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/generate-pin180x180.png",
+    "description": "N/A",
+    "fileName": "generate-pin180x180.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "NDBPresence-DND",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Presence-DND.png",
+    "description": "N/A",
+    "fileName": "Presence-DND.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "ndb.app.presence.donotdisturb"
+    ]
+  },
+  {
+    "title": "DefaultCustomerLogo",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/FranciscoLogo.png",
+    "description": "N/A",
+    "fileName": "FranciscoLogo.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.header.customer.logo"
+    ]
+  },
+  {
+    "title": "Header-PhoneRinger-Off",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/PhoneRinger-Off.png",
+    "description": "N/A",
+    "fileName": "PhoneRinger-Off.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.phoneringer.disabled"
+    ]
+  },
+  {
+    "title": "HowToVideo",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/HowToUseVideo.png",
+    "description": "N/A",
+    "fileName": "HowToUseVideo.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.howtousevideo"
+    ]
+  },
+  {
+    "title": "Netflix",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatDarkDefault/en_US/netflix-transparent.png",
+    "description": "N/A",
+    "fileName": "netflix-transparent.png",
+    "nxPath": "FlatDarkDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.entertainment.netflix"
+    ]
+  },
+  {
+    "title": "MyVisit",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/MyVisit_app.png",
+    "description": "N/A",
+    "fileName": "MyVisit_app.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.myvisit"
+    ]
+  },
+  {
+    "title": "PainScore_9",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/painValue_9.png",
+    "description": "N/A",
+    "fileName": "painValue_9.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "FriendsNFamily-Selected",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/Phone-Selected.png",
+    "description": "N/A",
+    "fileName": "Phone-Selected.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.friendsnfamily.selected"
+    ]
+  },
+  {
+    "title": "PainScore_8",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/painValue_8.png",
+    "description": "N/A",
+    "fileName": "painValue_8.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "PainScore_7",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/painValue_7.png",
+    "description": "N/A",
+    "fileName": "painValue_7.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "AppPrivacyLockIndicator",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/locked-180.png",
+    "description": "N/A",
+    "fileName": "locked-180.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.lockindicator"
+    ]
+  },
+  {
+    "title": "Header-PhoneRinger-On",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/PhoneRinger-On.png",
+    "description": "N/A",
+    "fileName": "PhoneRinger-On.png",
+    "nxPath": "FlatLightDefault/en_US",
+    "subjectTags": [
+      "tvapp.app.phoneringer.enabled"
+    ]
+  },
+  {
+    "title": "PainScore_6",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/painValue_6.png",
+    "description": "N/A",
+    "fileName": "painValue_6.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "PainScore_5",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/painValue_5.png",
+    "description": "N/A",
+    "fileName": "painValue_5.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "PainScore_4",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/painValue_4.png",
+    "description": "N/A",
+    "fileName": "painValue_4.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "PainScore_3",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/painValue_3.png",
+    "description": "N/A",
+    "fileName": "painValue_3.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "PainScore_2",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/painValue_2.png",
+    "description": "N/A",
+    "fileName": "painValue_2.png",
+    "nxPath": "FlatLightDefault/en_US"
+  },
+  {
+    "title": "PainScore_1",
+    "httpUri": "https://pcstaci04.ec.stagrp.com/image/site/FlatLightDefault/en_US/painValue_1.png",
+    "description": "N/A",
+    "fileName": "painValue_1.png",
+    "nxPath": "FlatLightDefault/en_US"
+  }
+]

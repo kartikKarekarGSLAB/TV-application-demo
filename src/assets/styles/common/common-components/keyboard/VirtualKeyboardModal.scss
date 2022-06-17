@@ -1,0 +1,223 @@
+.hg-theme-default{
+    background-color:#ececec;
+    border-radius:5px;
+    box-sizing:border-box;
+    font-family:'CiscoSansBold', Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    font-weight: 700 !important;
+    overflow:hidden;
+    padding:5px;
+    touch-action:manipulation;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+    width:100%
+}
+.hg-theme-default .hg-button span{
+    pointer-events:none
+}
+.hg-theme-default button.hg-button{
+    border-width:0;
+    font-size:inherit;
+    outline:0
+}
+.hg-theme-default .hg-button{
+    display:inline-block;
+    flex-grow:1
+}
+.hg-theme-default .hg-row{
+    display:flex
+}
+.hg-theme-default .hg-row:not(:last-child){
+    margin-bottom:2px !important;
+}
+.hg-theme-default .hg-row .hg-button:not(:last-child){
+    margin-right:5px
+}
+.hg-theme-default .hg-row .hg-button-container{
+    margin-right:5px
+}
+.hg-theme-default .hg-row>div:last-child{
+    margin-right:0
+}
+.hg-theme-default .hg-row .hg-button-container{
+    display:flex
+}
+.hg-theme-default .hg-button{
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
+    align-items:center;
+    background: var(--interactive-01, #00a0f0);
+    border-bottom:1px solid #b5b5b5;
+    border-radius:5px;
+    box-shadow:0 0 3px -1px rgba(0,0,0,.3);
+    box-sizing:border-box;
+    cursor:pointer;
+    display:flex;
+    height:40px;
+    justify-content:center;
+    padding:5px;
+    width: 5vw !important;
+    max-width: 85vw !important;
+    color: var(--ui-01, #ffffff) !important;
+}
+.hg-theme-default .hg-button.hg-standardBtn{
+    width:20px
+}
+.hg-theme-default .hg-button.hg-activeButton{
+    background:#efefef
+}
+.hg-theme-default.hg-layout-numeric .hg-button{
+    align-items:center;
+    display:flex;
+    height:60px;
+    justify-content:center;
+    width:33.3%
+}
+.hg-theme-default .hg-button.hg-button-numpadadd,.hg-theme-default .hg-button.hg-button-numpadenter{
+    height:85px
+}
+.hg-theme-default .hg-button.hg-button-numpad0{
+    width:105px
+}
+.hg-theme-default .hg-button.hg-button-com{
+    max-width:85px
+}
+.hg-theme-default .hg-button.hg-standardBtn.hg-button-at{
+    max-width:45px
+}
+.hg-theme-default .hg-button.hg-selectedButton, .hg-activeButton{
+    background: var(--selected-ui-background, #203240) !important;
+    color:var(--selected-ui, #00c6ff) !important;
+} 
+.hg-theme-default .hg-button.hg-standardBtn[data-skbtn=".com"]{
+    max-width:82px
+}
+.hg-theme-default .hg-button.hg-standardBtn[data-skbtn="@"]{
+    max-width:60px
+}
+.hg-candidate-box{
+    background:#ececec;
+    border-bottom:2px solid #b5b5b5;
+    border-radius:5px;
+    display:inline-flex;
+    margin-top:-10px;
+    max-width:272px;
+    position:absolute;
+    transform:translateY(-100%);
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none
+}
+ul.hg-candidate-box-list{
+    display:flex;
+    flex:1;
+    list-style:none;
+    margin:0;
+    padding:0
+}
+li.hg-candidate-box-list-item{
+    align-items:center;
+    display:flex;
+    height:40px;
+    justify-content:center;
+    width:40px
+}
+li.hg-candidate-box-list-item:hover{
+    background:rgba(0,0,0,.03);
+    cursor:pointer
+}
+li.hg-candidate-box-list-item:active{
+    background:rgba(0,0,0,.1)
+}
+.hg-candidate-box-prev:before{
+    content:"◄"
+}
+.hg-candidate-box-next:before{
+    content:"►"
+}
+.hg-candidate-box-next,.hg-candidate-box-prev{
+    align-items:center;
+    background:#d0d0d0;
+    color:#969696;
+    cursor:pointer;
+    display:flex;
+    padding:0 10px
+}
+.hg-candidate-box-next{
+    border-bottom-right-radius:5px;
+    border-top-right-radius:5px
+}
+.hg-candidate-box-prev{
+    border-bottom-left-radius:5px;
+    border-top-left-radius:5px
+}
+.hg-candidate-box-btn-active{
+    color:#444
+}
+
+
+// Virtual Keyboard Modal Component.
+.virtual-keyboard-modal-input {
+    height: 5vh !important;
+    width: 99%;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    font-size: 1.5rem;
+    background: var(--interactive-01, #00a0f0);
+    color: var(--ui-01, #ffffff) !important;
+    border: 1px solid var(--ui-01, #ffffff) !important;
+}
+// Virtual keyboard Password show hide icon.
+.virtual-keyboard-password-show-hide-icon {
+    color: var(--ui-01, #ffffff) !important;
+}
+.virtual-keyboard-divider {
+    width: 100%;
+    margin-top: 1.5vh !important;
+    border-bottom: 1px solid var(--ui-01, #ffffff) !important;
+}
+
+// Class to be added for alpha characters.
+.alpha-keyboard-keys-button {
+    border-bottom: 1px solid var(--selected-ui-background, #203240) !important;
+    border-right: 1px solid var(--selected-ui-background, #203240) !important;
+    border-radius: 0px !important;
+    margin: 0px !important;
+}
+
+// Class to be added for numeric characters.
+.numeric-keyboard-keys-button {
+    border-bottom: 1px solid var(--selected-ui-background, #203240) !important;
+    border-right: 1px solid var(--selected-ui-background, #203240) !important;
+    border-radius: 0px !important;
+    margin-left: 1.5vw !important;
+    margin-right: 0vw !important;
+}
+
+// Class to be added for operations characters.
+.operations-keyboard-keys-button {
+    border-bottom: 1px solid var(--selected-ui-background, #203240) !important;
+    border-right: 1px solid var(--selected-ui-background, #203240) !important;
+    border-radius: 0px !important;
+    margin-left: 1.5vw !important;
+    margin-right: 0px !important;
+}
+
+// Class to be added for long characters.
+.long-keyboard-key-button {
+    text-align: left !important;
+    border-bottom: 1px solid var(--selected-ui-background, #203240) !important;
+    border-right: 1px solid var(--selected-ui-background, #203240) !important;
+    border-radius: 0px !important;
+}
+
+// Class to be added for space characters.
+.space-keyboard-key-button {
+    margin-top: 2.5vh !important;
+}
+
+.ok-keyboard-key-button {
+    margin-top: 3.5vh !important;
+}

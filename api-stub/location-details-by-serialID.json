@@ -1,0 +1,72 @@
+{
+   "department": {
+       "departmentName": "dept1",
+       "departmentId": "dept1"
+   },
+   "facility": "facility1",
+   "building": "building1",
+   "floor": "floor1",
+   "room": "03",
+   "storeDiscrepancy": false,
+   "bed": "01",
+   "facilityDescription": "facility1",
+   "buildingDescription": "building1",
+   "floorDescription": "floor1",
+   "roomDescription": "03",
+   "bedDescription": "01",
+   "device": {
+       "type": "DEVICE",
+       "serialNumber": "03-01",
+       "operationMode": "STANDALONE"
+   },
+   "policy": {
+       "callMgrHost": "sip.linphone.org",
+       "sipPassword": "",
+       "sipPhoneNumber": "",
+       "sipUser": ""
+   },
+   "preferences": {
+       "language": "en_US",
+       "closedCaption": "CC1",
+       "showClosedCaption": false,
+       "fontSize": "medium",
+       "createdDate": 1633683471000,
+       "updatedDate": 1633683471000,
+       "logLevel": "WARN",
+       "liveTvProtocolsMediaPlayer": "",
+       "liveTvProtocolsMobile": "",
+       "liveTvProtocolsMobileIOS": "",
+       "liveTvProtocolsMobileAndroid": "",
+       "autoAnswerAsAudio": false,
+       "autoAnswerAsVideo": false,
+       "autoAnswerExpiryDuration": 10,
+       "multipleOccupancy": false
+   },
+   "locationType": "PATIENT_ROOM",
+   "locationId": "03_01",
+   "devices": [
+       {
+           "type": "DEVICE",
+           "serialNumber": "03-01",
+           "operationMode": "STANDALONE"
+       }
+   ],
+   "outboundQueues": [
+       {
+           "exchange": "location",
+           "name": "LOCATION.francisco.03_01",
+           "type": "endpoint"
+       },
+       {
+           "exchange": "location",
+           "name": "FACILITY.francisco.facility1",
+           "type": "broadcast"
+       },
+       {
+           "exchange": "location",
+           "name": "pme.analytics.raw.events",
+           "type": "analytics"
+       }
+   ],
+   "displayName": "03"
+}

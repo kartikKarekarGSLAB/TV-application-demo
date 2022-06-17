@@ -1,0 +1,42 @@
+{
+  "tenantProp" : {
+    "metadataRegistryPk": 94,
+    "service": "APP_CUSTOMIZATION",
+    "resourceName": "METADATA",
+    "resourceId": "PATIENT_APP",
+    "resourceContent": "{\"global_comments\":{\"supported themes\":\"flat-dark/flat-green/flat-light/common-style\"},\"app_rtc_url\":\"https://apprtc.appspot.com/r/\",\"shaka_player_widget_url\":\"https://173.39.15.109/modular-tv-guide/app/plugins/shaka-player/shaka-player.html\",\"shaka_player_license_server_url\":\"https://wvlsmod.swankmp.net/moddrm_proxy/proxy.py\",\"shaka_player_swank_portal_id\":\"3A7ED520-9CBE-4573-8252-E4E73912F06A\",\"tv_ui_theme\":\"flat-dark\",\"startup_url_is_home\":true}",
+    "metadataId": "APP_CUSTOMIZATION#METADATA#PATIENT_APP"
+  },
+  "adminProp" : {
+    "keyValues": [
+      {
+        "key": "patientapp.display.style",
+        "value": "css-styling"
+      },
+      {
+        "key": "patientapp.display.style.selectionbordercolor",
+        "value": "rgba(0, 198, 255, 1)"
+      },
+      {
+        "key": "patientapp.display.style.selectionfillercolor",
+        "value": "rgba(32, 50, 64, 1)"
+      },
+      {
+        "key": "patientapp.defaultlocation.closedcaption",
+        "value": "false"
+      },
+      {
+        "key": "patientapp.defaultlocation.closedcaption.channel",
+        "value": "CC1"
+      },
+      {
+        "key": "patientapp.theme.tv",
+        "value": "flat-dark"
+      },
+      {
+        "key": "closedcaption.font.size",
+        "value": "48"
+      }
+    ]
+  }
+}

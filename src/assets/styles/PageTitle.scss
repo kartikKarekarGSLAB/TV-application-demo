@@ -1,0 +1,19 @@
+.page-heading {
+    border-top: 1px solid var(--ui-03, #ffffff);
+    border-bottom: 1px solid var(--ui-03, #ffffff);
+    display: flex;
+    padding: 7px 0 5px 5px;
+
+    .back-icon {
+        width: 2.2rem;
+        height: 2.2rem;
+    }
+
+    .header-text {
+        width: 90%;
+        text-align: center;
+        text-transform: capitalize;
+        font-size: 1.5rem;
+        font-family: 'CiscoSansBold', Arial, Helvetica, sans-serif;
+    }
+}

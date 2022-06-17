@@ -1,0 +1,93 @@
+/**
+    - Read more about the @font-face options,
+    - https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
+    This is custom font face added to support the Cisco Font.
+    Please refer the following font family as reference pointer for the tables.
+*/
+
+// Use "CiscoSans" as "font-family" to refer this font.
+@font-face {
+    font-family: 'CiscoSans';
+    src: url('./fonts/CiscoSans.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/CiscoSans-Bold.otf') format('opentype'), url('fonts/CiscoSans.woff') format('woff'),
+        url('./fonts/CiscoSans.ttf') format('truetype'), url('./fonts/CiscoSans.svg#CiscoSans') format('svg');
+    font-weight: normal !important;
+    font-style: normal !important;
+}
+
+// Use "CiscoSansBold" as "font-family" to refer this font.
+@font-face {
+    font-family: 'CiscoSansBold';
+    src: url('./fonts/CiscoSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/CiscoSans-Bold.otf') format('opentype'), url('./fonts/CiscoSans-Bold.woff') format('woff'),
+        url('./fonts/CiscoSans-Bold.ttf') format('truetype'),
+        url('./fonts/CiscoSans-Bold.svg#CiscoSans-Bold') format('svg');
+    font-weight: normal !important;
+    font-style: normal !important;
+}
+
+// Use "CiscoSansBoldOblique" as "font-family" to refer this font.
+@font-face {
+    font-family: 'CiscoSansBoldOblique';
+    src: url('./fonts/CiscoSans-BoldOblique.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/CiscoSans-BoldOblique.woff2') format('woff2'),
+        url('./fonts/CiscoSans-BoldOblique.woff') format('woff'),
+        url('./fonts/CiscoSans-BoldOblique.ttf') format('truetype'),
+        url('./fonts/CiscoSans-BoldOblique.svg#CiscoSans-BoldOblique') format('svg');
+    font-weight: bold !important;
+    font-style: italic !important;
+}
+
+.CiscoSansSmall {
+    font-family: 'CiscoSans', Arial, Helvetica, sans-serif;
+    font-size: 1.75em !important;
+    letter-spacing: 0px !important;
+}
+
+.CiscoSansMedium {
+    font-family: 'CiscoSans', Arial, Helvetica, sans-serif;
+    font-size: 2.125em !important;
+    letter-spacing: 0px !important;
+}
+
+.CiscoSansLarge {
+    font-family: 'CiscoSans', Arial, Helvetica, sans-serif;
+    font-size: 2.438em !important;
+    letter-spacing: 0px !important;
+}
+
+.CiscoSansBoldSmall {
+    font-family: 'CiscoSansBold', Arial, Helvetica, sans-serif;
+    font-size: 1.75em !important;
+    letter-spacing: 0px !important;
+}
+
+.CiscoSansBoldMedium {
+    font-family: 'CiscoSansBold', Arial, Helvetica, sans-serif;
+    font-size: 2.125em !important;
+    letter-spacing: 0px !important;
+}
+
+.CiscoSansBoldLarge {
+    font-family: 'CiscoSansBold', Arial, Helvetica, sans-serif;
+    font-size: 2.438em !important;
+    letter-spacing: 0px !important;
+}
+
+.CiscoSansBoldObliqueSmall {
+    font-family: 'CiscoSansBoldOblique', Arial, Helvetica, sans-serif;
+    font-size: 1.75em !important;
+    letter-spacing: 0px !important;
+}
+
+.CiscoSansBoldObliqueMedium {
+    font-family: 'CiscoSansBoldOblique', Arial, Helvetica, sans-serif;
+    font-size: 2.125em !important;
+    letter-spacing: 0px !important;
+}
+
+.CiscoSansBoldObliqueLarge {
+    font-family: 'CiscoSansBoldOblique', Arial, Helvetica, sans-serif;
+    font-size: 2.438em !important;
+    letter-spacing: 0px !important;
+}

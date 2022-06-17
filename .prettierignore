@@ -1,0 +1,18 @@
+# Ignore artifacts:
+.tmp
+.sass-cache
+.publish
+coverage/
+build/**
+dist/
+node_modules/
+reports/
+dist/
+webpack.stats.json
+yarn-error.log
+git-hash.txt
+version.json
+target/
+.DS_Store
+.npmrc
+test-report.xml

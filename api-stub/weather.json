@@ -1,0 +1,51 @@
+{
+   "autologinData": {
+      "loginId": "03_01",
+      "password": "JlbHJ9y5",
+      "patientPassword": "9RRsOi6M",
+      "patientLoginId": "Gardner.Phil",
+      "patientId": "phil"
+    },
+    "weatherInformation" : {
+        "geo":{
+           "zip":"60606",
+           "city":"Chicago",
+           "region":"IL",
+           "country":"US",
+           "latitude":41.8868,
+           "longitude":-87.6386
+        },
+        "conditions":[
+           {
+              "hashKey":"803_04n",
+              "id":"803",
+              "name":"Clouds",
+              "description":"broken clouds",
+              "imageName":"moon-cloud-27-29.png",
+              "vendorImageUrl":"https://openweathermap.org/img/w/04n.png",
+              "vendorImageName":"04n"
+           }
+        ],
+        "sunrise":1640006073,
+        "sunset":1640038923,
+        "temp":29,
+        "tempUnit":"F",
+        "humidity":86,
+        "pressure":1026,
+        "tempMin":27,
+        "tempMax":31,
+        "windSpeed":5.01,
+        "windDeg":202,
+        "cloudsAll":67,
+        "publishDate":1639991913
+    },
+    "iepToken": {
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiIwM18wMSIsInNjb3BlIjpbImxvY2F0aW9uX3JlYWQiLCJvcGVyYXRvcl9yZWFkIiwibG9jYXRpb25wcmVmX3dyaXRlIiwidHZndWlkZV9yZWFkIiwiY29udGVudF9yZWFkIiwicGF0aWVudF9yZWFkIiwicGF0aWVudF93cml0ZSIsImZvb2RtZW51X3dyaXRlIiwiY29sbGFib3JhdGlvbl9yZWFkIiwiY29sbGFib3JhdGlvbl93cml0ZSIsImNvbmZpZ19yZWFkIiwic3BlZWRkaWFsX3JlYWQiLCJ3b3JrZmxvd193cml0ZSIsInNwZWVkZGlhbF93cml0ZSJdLCJleHAiOjE2NDYyNDM1MDYsImF1dGhvcml0aWVzIjpbIlJPTEVfUEFUSUVOVCJdLCJqdGkiOiJjYzRjOTY1OC01NmNmLTRkOTYtYTExYy1mNzFlNDNmOTAyZjMiLCJpZXAtdGVuYW50LWlkIjoiZnJhbmNpc2NvIiwiY2xpZW50X2lkIjoicGF0aWVudEFwcCJ9.nqi9ZcwmBQD2tMVJ9PsU7M8pWESbj40j6x5LirMkn8g",
+      "expires_in": 43199,
+      "iep-tenant-id": "francisco",
+      "jti": "cc4c9658-56cf-4d96-a11c-f71e43f902f3",
+      "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiIwM18wMSIsInNjb3BlIjpbImxvY2F0aW9uX3JlYWQiLCJvcGVyYXRvcl9yZWFkIiwibG9jYXRpb25wcmVmX3dyaXRlIiwidHZndWlkZV9yZWFkIiwiY29udGVudF9yZWFkIiwicGF0aWVudF9yZWFkIiwicGF0aWVudF93cml0ZSIsImZvb2RtZW51X3dyaXRlIiwiY29sbGFib3JhdGlvbl9yZWFkIiwiY29sbGFib3JhdGlvbl93cml0ZSIsImNvbmZpZ19yZWFkIiwic3BlZWRkaWFsX3JlYWQiLCJ3b3JrZmxvd193cml0ZSIsInNwZWVkZGlhbF93cml0ZSJdLCJhdGkiOiJjYzRjOTY1OC01NmNmLTRkOTYtYTExYy1mNzFlNDNmOTAyZjMiLCJleHAiOjE2NDg3OTIzMDYsImF1dGhvcml0aWVzIjpbIlJPTEVfUEFUSUVOVCJdLCJqdGkiOiI0NmVhMzA2MC1kN2MwLTRhMTAtOTQzYi1kNmYzYTI3MDJkNDkiLCJpZXAtdGVuYW50LWlkIjoiZnJhbmNpc2NvIiwiY2xpZW50X2lkIjoicGF0aWVudEFwcCJ9.26m_ruWl4D_Zpf6QBS0O0fRJMS7SzdlQMB4zg_kl5E4",
+      "scope": "location_read operator_read locationpref_write tvguide_read content_read patient_read patient_write foodmenu_write collaboration_read collaboration_write config_read speeddial_read workflow_write speeddial_write",
+      "token_type": "bearer"
+    }
+}

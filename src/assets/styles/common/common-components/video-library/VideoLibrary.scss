@@ -1,0 +1,13 @@
+/*
+This class is the wrapper class being added for the video
+library component. This will add the wrapper to occupy the
+whole width and height of the display along with, the display
+property as 'flex'.
+Here the flex-direction will be 'row' which is default.
+*/
+.video-library-main-page {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+}

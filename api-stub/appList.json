@@ -1,0 +1,489 @@
+{
+    "PATIENT_ROOM": [
+        {
+          "appId": "VIDEO_APPS",
+          "appName": "Video Apps",
+          "appDescription": "Video as App",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": false,
+          "sequence": 90,
+          "availableWithoutAuth": true,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "LIVE_TV",
+          "appName": "Live TV",
+          "appDescription": "Live TV",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": false,
+          "sequence": 100,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "MOVIES_ON_DEMAND",
+          "appName": "Movies on Demand",
+          "appDescription": "Movies on Demand",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "DISABLED",
+          "privacyApplicable": false,
+          "sequence": 110,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "ENTERTAINMENT",
+          "appName": "Entertainment",
+          "appDescription": "Entertainment",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": false,
+          "sequence": 120,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "GAMES",
+          "appName": "Games",
+          "appDescription": "Games",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": false,
+          "sequence": 130,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "VIDEO_LIBRARY",
+          "appName": "Video Library",
+          "appDescription":
+            "Library of Videos such as Educational, Relaxation etc.",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "DISABLED",
+          "privacyApplicable": false,
+          "sequence": 140,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "MY_LEARNING",
+          "appName": "My Learning",
+          "appDescription": "My Learning",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 150,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "APPS",
+          "appName": "Apps",
+          "appDescription": "Apps",
+          "appStatusCode": "DISABLED",
+          "privacyApplicable": false,
+          "sequence": 170,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_FOOD_MENU",
+          "appName": "Food Menu",
+          "appDescription": "View Meals",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 180,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_REQUESTS",
+          "appName": "Requests",
+          "appDescription": "Patient Requests",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 190,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_FAQ",
+          "appName": "FAQ",
+          "appDescription": "Frequently Asked Questions",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": false,
+          "sequence": 200,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_QUESTIONS",
+          "appName": "Questions",
+          "appDescription": "Patient Questions",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 210,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "FRIENDS_FAMILY_COLLABORATION",
+          "appName": "Friends and Family Collaboration",
+          "appDescription": "Collaboration for Friends and Family",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 220,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PHONE",
+          "appName": "Phone",
+          "appDescription": "Phone call",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 230,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_PROGRESS",
+          "appName": "Progress",
+          "appDescription": "Progress on Assigned Activities",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 240,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_SCHEDULE",
+          "appName": "Schedule",
+          "appDescription": "Ability to view appointments",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 250,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_MEDICATION",
+          "appName": "Medication",
+          "appDescription": "View Prescribed Medicines",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 260,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_FEEDBACK",
+          "appName": "Feedback",
+          "appDescription": "Survey Feedback",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 270,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "GOALS",
+          "appName": "Goal of the Day",
+          "appDescription": "Assign Goal(s) to Patient",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 280,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PAIN_SCORE",
+          "appName": "Pain Score",
+          "appDescription": "Pain Score",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 290,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "CARE_TEAM",
+          "appName": "Care Team",
+          "appDescription": "Entire Care team",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 300,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_VISITORS",
+          "appName": "Patient Visitors",
+          "appDescription": "Visitor History",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 310,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_NOTIFICATION_CENTER",
+          "appName": "Patient Notifications Center",
+          "appDescription": "Notification Center on Patient TV",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 320,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "APPLICATION_SETTINGS",
+          "appName": "Settings",
+          "appDescription": "Patient App settings",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": true,
+          "sequence": 340,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "AGE_BASED_THEMES",
+          "appName": "Age Based Themes",
+          "appDescription": "Different Theme based on Age",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PHONE_RINGER_CONFIGURATION",
+          "appName": "Allow Phone Ringer Configuration",
+          "appDescription": "Allow Phone Ringer Configuration",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "AUTO_ASSIGN_VIDEOS_BY_ICD",
+          "appName": "Auto Assign Videos by Diagnosis Codes",
+          "appDescription": "Auto Assign Videos by Diagnosis Codes",
+          "appStatusCode": "DISABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "NURSE_CAN_REMOVE_PATIENT",
+          "appName": "Can Nurse Remove Patient from Patient Connect?",
+          "appDescription":
+            "Nurse can manually remove patient from Patient Connect.",
+          "appStatusCode": "DISABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_FOOD_ORDER",
+          "appName": "Can Patient Order Food?",
+          "appDescription": "Whether patient can order food or not",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": true,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "CONTACT_MANAGEMENT_COLLABORATION",
+          "appName": "Contact Management Collaboration",
+          "appDescription": "Contact Management For Collaboration",
+          "appStatusCode": "DISABLED",
+          "privacyApplicable": true,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "ESTIMATED_DISCHARGE_VIEW",
+          "appName": "Estimated Discharge data Availability",
+          "appDescription": "This data is sent by EMR",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": true,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "NURSE_ME_TAB",
+          "appName": "Nurse ME tab",
+          "appDescription": "Nurse ME tab",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_DATA_TOOL",
+          "appName": "Patient Data Tool",
+          "appDescription": "Ability to add or update patient on a location",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "DISABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_PRESENCE",
+          "appName": "Patient Presence",
+          "appDescription": "Patient Presence",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_PRIVACY",
+          "appName": "Patient Privacy Check",
+          "appDescription": "Patient Privacy check on some Screens",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "DISABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_PROFILE",
+          "appName": "Patient Profile",
+          "appDescription": "Patient Information and Assignment details",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_TRACKING",
+          "appName": "Patient Tracking",
+          "appDescription": "Ability to track a patient",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "PATIENT_TRACKING_STATISTICS",
+          "appName": "Patient Tracking Statistics",
+          "appDescription": "Patient Tracking Statistics",
+          "appStatusCode": "DISABLED",
+          "privacyCheck": "DISABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "AUTO_ANSWER",
+          "appName": "Phone Auto Answer",
+          "appDescription": "Ability to set Phone on Auto Answer",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "REQUIRED_VIDEOS",
+          "appName": "Required Videos",
+          "appDescription": "Required Videos assigned for Patient",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "SPEED_DIAL",
+          "appName": "Speeddial",
+          "appDescription": "Speeddials on Phone",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": true,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "STAFF_ASSIGNMENT",
+          "appName": "Staff Assignment",
+          "appDescription": "Staff Assignment Integration is Enabled or not",
+          "appStatusCode": "DISABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "STAFF_COLLABORATION",
+          "appName": "Staff Collaboration",
+          "appDescription": "Collaboration for Staff",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": true,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "SUGGESTED_VIDEOS",
+          "appName": "Suggested Videos",
+          "appDescription": "Suggested Videos assigned for Patient",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "ENABLED",
+          "privacyApplicable": true,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "BULK_SURVEY_ASSIGNMENTS",
+          "appName": "Survey Assignments to Multiple Locations",
+          "appDescription":
+            "Ability to assign survey(s) to one or more Locations",
+          "appStatusCode": "ENABLED",
+          "privacyCheck": "DISABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "TRENDS",
+          "appName": "Trends",
+          "appDescription": "Show Usage Trends reported by Analytics Platform",
+          "appStatusCode": "ENABLED",
+          "privacyApplicable": false,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "VIRTUAL_ROUND_COLLABORATION",
+          "appName": "Virtual Round Collaboration",
+          "appDescription": "Virtual Round Support",
+          "appStatusCode": "DISABLED",
+          "privacyApplicable": true,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        },
+        {
+          "appId": "VIRTUAL_SITTER_COLLABORATION",
+          "appName": "Virtual Sitter Collaboration",
+          "appDescription": "Virtual Sitter Support",
+          "appStatusCode": "DISABLED",
+          "privacyApplicable": true,
+          "availableWithoutAuth": false,
+          "hideInGuestMode": false
+        }
+      ]
+}
